@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Didi\\SoftUni\\Greeting\\InchesToSantimeters\\InchesToCentimeters.csproj": {}
+    "C:\\Didi\\SoftUni-Courses\\Greeting\\InchesToSantimeters\\InchesToCentimeters.csproj": {}
   },
   "projects": {
-    "C:\\Didi\\SoftUni\\Greeting\\InchesToSantimeters\\InchesToCentimeters.csproj": {
+    "C:\\Didi\\SoftUni-Courses\\Greeting\\InchesToSantimeters\\InchesToCentimeters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Didi\\SoftUni\\Greeting\\InchesToSantimeters\\InchesToCentimeters.csproj",
+        "projectUniqueName": "C:\\Didi\\SoftUni-Courses\\Greeting\\InchesToSantimeters\\InchesToCentimeters.csproj",
         "projectName": "InchesToCentimeters",
-        "projectPath": "C:\\Didi\\SoftUni\\Greeting\\InchesToSantimeters\\InchesToCentimeters.csproj",
+        "projectPath": "C:\\Didi\\SoftUni-Courses\\Greeting\\InchesToSantimeters\\InchesToCentimeters.csproj",
         "packagesPath": "C:\\Users\\Didi\\.nuget\\packages\\",
-        "outputPath": "C:\\Didi\\SoftUni\\Greeting\\InchesToSantimeters\\obj\\",
+        "outputPath": "C:\\Didi\\SoftUni-Courses\\Greeting\\InchesToSantimeters\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

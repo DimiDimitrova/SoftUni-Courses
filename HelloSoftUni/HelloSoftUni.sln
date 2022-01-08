@@ -15,8 +15,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForLoop", "ForLoop\ForLoop.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert", "Convert\Convert.csproj", "{DD636F4F-37DA-43AA-942A-189A58E8F8BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleOf33", "TriangleOf33\TriangleOf33.csproj", "{D4B313FF-3CA1-49B2-BEA6-F1BCEFC182DB}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,10 +45,6 @@ Global
 		{DD636F4F-37DA-43AA-942A-189A58E8F8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD636F4F-37DA-43AA-942A-189A58E8F8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD636F4F-37DA-43AA-942A-189A58E8F8BB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D4B313FF-3CA1-49B2-BEA6-F1BCEFC182DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D4B313FF-3CA1-49B2-BEA6-F1BCEFC182DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D4B313FF-3CA1-49B2-BEA6-F1BCEFC182DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D4B313FF-3CA1-49B2-BEA6-F1BCEFC182DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

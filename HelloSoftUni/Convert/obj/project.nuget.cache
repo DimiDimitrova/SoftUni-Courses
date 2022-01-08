@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h9ZHLsiDLfhU+paSEUpr/na90MDYRO/hh0WrsJmRcSy4SYaflUsjbD5MLd4JS0iJvuMAf2HIuDYPJtg5FvE68g==",
+  "dgSpecHash": "XohX4ysgitTYXCSNWW8FDg9CKa6PO8LR6VfoCemFkB8r7/cEqNdNY+X5TYhjWqbDcCjE9kE0dVTUwN9o6OMMwQ==",
   "success": true,
-  "projectFilePath": "C:\\Didi\\SoftUni\\HelloSoftUni\\Convert\\Convert.csproj",
+  "projectFilePath": "C:\\Didi\\SoftUni-Courses\\HelloSoftUni\\Convert\\Convert.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

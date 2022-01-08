@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Didi\\SoftUni\\DidiFirstProject\\PointOnRectangleBorders\\NumberFrom1To10.csproj": {}
+    "C:\\Didi\\SoftUni-Courses\\DidiFirstProject\\PointOnRectangleBorders\\NumberFrom1To10.csproj": {}
   },
   "projects": {
-    "C:\\Didi\\SoftUni\\DidiFirstProject\\PointOnRectangleBorders\\NumberFrom1To10.csproj": {
+    "C:\\Didi\\SoftUni-Courses\\DidiFirstProject\\PointOnRectangleBorders\\NumberFrom1To10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Didi\\SoftUni\\DidiFirstProject\\PointOnRectangleBorders\\NumberFrom1To10.csproj",
+        "projectUniqueName": "C:\\Didi\\SoftUni-Courses\\DidiFirstProject\\PointOnRectangleBorders\\NumberFrom1To10.csproj",
         "projectName": "NumberFrom1To10",
-        "projectPath": "C:\\Didi\\SoftUni\\DidiFirstProject\\PointOnRectangleBorders\\NumberFrom1To10.csproj",
+        "projectPath": "C:\\Didi\\SoftUni-Courses\\DidiFirstProject\\PointOnRectangleBorders\\NumberFrom1To10.csproj",
         "packagesPath": "C:\\Users\\Didi\\.nuget\\packages\\",
-        "outputPath": "C:\\Didi\\SoftUni\\DidiFirstProject\\PointOnRectangleBorders\\obj\\",
+        "outputPath": "C:\\Didi\\SoftUni-Courses\\DidiFirstProject\\PointOnRectangleBorders\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

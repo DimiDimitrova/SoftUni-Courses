@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZtXyOyUWPaqspUNZiNVOsKxKnnuA3YPzDEycoaNCUVfo1ej6LY6AUCRN1EgYfOuuS5Nrx7V05LnPYfsG5lORJQ==",
+  "dgSpecHash": "WyaQSJN9JiXupp54z+rjLpZCM/Twu3rJxGHvRHj/V0Vl7CkZDhHLRoAemCftR4fRczhObJFvVbVtTjh1s+0uRA==",
   "success": true,
-  "projectFilePath": "C:\\Didi\\SoftUni\\Recursion\\RecursiveFactorial\\RecursiveFactorial.csproj",
+  "projectFilePath": "C:\\Didi\\SoftUni-Courses\\Recursion\\RecursiveFactorial\\RecursiveFactorial.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

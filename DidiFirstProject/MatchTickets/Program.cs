@@ -12,7 +12,7 @@ namespace MatchTickets
             double discount = 0;
             double priceV = 0;
             double priceN = 0;
-            double finalB = 0;
+            double finalBudget = 0;
 
             switch (part)
             {
@@ -38,14 +38,14 @@ namespace MatchTickets
                         discount = 0.75;
                     }
                     priceV = countP * 499.99;
-                    finalB = budget - budget * discount;
-                    if (finalB > priceV)
+                    finalBudget = budget - budget * discount;
+                    if (finalBudget > priceV)
                     {
-                        Console.WriteLine($"Yes! You have {(finalB - priceV):F2} leva left.");
+                        Console.WriteLine($"Yes! You have {(finalBudget - priceV):F2} leva left.");
                     }
                     else
                     {
-                        Console.WriteLine($"Not enough money! You need {(priceV - finalB):F2} leva.");
+                        Console.WriteLine($"Not enough money! You need {(priceV - finalBudget):F2} leva.");
                     }
                     break;
                 case "Normal":
@@ -70,14 +70,14 @@ namespace MatchTickets
                         discount = 0.75;
                     }
                     priceN = countP * 249.99;
-                    finalB = budget - budget * discount;
-                    if (finalB > priceN)
+                    finalBudget = budget - budget * discount;
+                    if (finalBudget > priceN)
                     {
-                        Console.WriteLine($"Yes! You have {(finalB - priceN):F2} leva left.");
+                        Console.WriteLine($"Yes! You have {(finalBudget - priceN):F2} leva left.");
                     }
                     else
                     {
-                        Console.WriteLine($"Not enough money! You need {(priceN - finalB):F2} leva.");
+                        Console.WriteLine($"Not enough money! You need {(priceN - finalBudget):F2} leva.");
                     }
                     break;
             }

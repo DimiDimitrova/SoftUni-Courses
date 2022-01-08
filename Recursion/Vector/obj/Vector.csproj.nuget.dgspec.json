@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Didi\\SoftUni\\Recursion\\Vector\\Vector.csproj": {}
+    "C:\\Didi\\SoftUni-Courses\\Recursion\\Vector\\Vector.csproj": {}
   },
   "projects": {
-    "C:\\Didi\\SoftUni\\Recursion\\Vector\\Vector.csproj": {
+    "C:\\Didi\\SoftUni-Courses\\Recursion\\Vector\\Vector.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Didi\\SoftUni\\Recursion\\Vector\\Vector.csproj",
+        "projectUniqueName": "C:\\Didi\\SoftUni-Courses\\Recursion\\Vector\\Vector.csproj",
         "projectName": "Vector",
-        "projectPath": "C:\\Didi\\SoftUni\\Recursion\\Vector\\Vector.csproj",
+        "projectPath": "C:\\Didi\\SoftUni-Courses\\Recursion\\Vector\\Vector.csproj",
         "packagesPath": "C:\\Users\\Didi\\.nuget\\packages\\",
-        "outputPath": "C:\\Didi\\SoftUni\\Recursion\\Vector\\obj\\",
+        "outputPath": "C:\\Didi\\SoftUni-Courses\\Recursion\\Vector\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

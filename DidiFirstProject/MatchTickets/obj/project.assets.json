@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Didi\\SoftUni\\DidiFirstProject\\MatchTickets\\MatchTickets.csproj",
+      "projectUniqueName": "C:\\Didi\\SoftUni-Courses\\DidiFirstProject\\MatchTickets\\MatchTickets.csproj",
       "projectName": "MatchTickets",
-      "projectPath": "C:\\Didi\\SoftUni\\DidiFirstProject\\MatchTickets\\MatchTickets.csproj",
+      "projectPath": "C:\\Didi\\SoftUni-Courses\\DidiFirstProject\\MatchTickets\\MatchTickets.csproj",
       "packagesPath": "C:\\Users\\Didi\\.nuget\\packages\\",
-      "outputPath": "C:\\Didi\\SoftUni\\DidiFirstProject\\MatchTickets\\obj\\",
+      "outputPath": "C:\\Didi\\SoftUni-Courses\\DidiFirstProject\\MatchTickets\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -36,6 +36,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -47,6 +48,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -62,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

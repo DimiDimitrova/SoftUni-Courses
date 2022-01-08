@@ -6,7 +6,9 @@ namespace SkiTrip
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Day: ");
             int days = int.Parse(Console.ReadLine());
+            Console.WriteLine("Room: ");
             string room = Console.ReadLine();
             string estimate = Console.ReadLine();
             double price = 0;

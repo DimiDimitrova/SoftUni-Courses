@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Didi\\SoftUni\\Recursion\\PrintStars\\PrintStars.csproj": {}
+    "C:\\Didi\\SoftUni-Courses\\Recursion\\PrintStars\\PrintStars.csproj": {}
   },
   "projects": {
-    "C:\\Didi\\SoftUni\\Recursion\\PrintStars\\PrintStars.csproj": {
+    "C:\\Didi\\SoftUni-Courses\\Recursion\\PrintStars\\PrintStars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Didi\\SoftUni\\Recursion\\PrintStars\\PrintStars.csproj",
+        "projectUniqueName": "C:\\Didi\\SoftUni-Courses\\Recursion\\PrintStars\\PrintStars.csproj",
         "projectName": "PrintStars",
-        "projectPath": "C:\\Didi\\SoftUni\\Recursion\\PrintStars\\PrintStars.csproj",
+        "projectPath": "C:\\Didi\\SoftUni-Courses\\Recursion\\PrintStars\\PrintStars.csproj",
         "packagesPath": "C:\\Users\\Didi\\.nuget\\packages\\",
-        "outputPath": "C:\\Didi\\SoftUni\\Recursion\\PrintStars\\obj\\",
+        "outputPath": "C:\\Didi\\SoftUni-Courses\\Recursion\\PrintStars\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

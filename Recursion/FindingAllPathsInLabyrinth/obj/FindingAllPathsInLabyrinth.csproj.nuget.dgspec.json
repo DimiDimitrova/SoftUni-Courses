@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Didi\\SoftUni\\Recursion\\FindingAllPathsInLabyrinth\\FindingAllPathsInLabyrinth.csproj": {}
+    "C:\\Didi\\SoftUni-Courses\\Recursion\\FindingAllPathsInLabyrinth\\FindingAllPathsInLabyrinth.csproj": {}
   },
   "projects": {
-    "C:\\Didi\\SoftUni\\Recursion\\FindingAllPathsInLabyrinth\\FindingAllPathsInLabyrinth.csproj": {
+    "C:\\Didi\\SoftUni-Courses\\Recursion\\FindingAllPathsInLabyrinth\\FindingAllPathsInLabyrinth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Didi\\SoftUni\\Recursion\\FindingAllPathsInLabyrinth\\FindingAllPathsInLabyrinth.csproj",
+        "projectUniqueName": "C:\\Didi\\SoftUni-Courses\\Recursion\\FindingAllPathsInLabyrinth\\FindingAllPathsInLabyrinth.csproj",
         "projectName": "FindingAllPathsInLabyrinth",
-        "projectPath": "C:\\Didi\\SoftUni\\Recursion\\FindingAllPathsInLabyrinth\\FindingAllPathsInLabyrinth.csproj",
+        "projectPath": "C:\\Didi\\SoftUni-Courses\\Recursion\\FindingAllPathsInLabyrinth\\FindingAllPathsInLabyrinth.csproj",
         "packagesPath": "C:\\Users\\Didi\\.nuget\\packages\\",
-        "outputPath": "C:\\Didi\\SoftUni\\Recursion\\FindingAllPathsInLabyrinth\\obj\\",
+        "outputPath": "C:\\Didi\\SoftUni-Courses\\Recursion\\FindingAllPathsInLabyrinth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

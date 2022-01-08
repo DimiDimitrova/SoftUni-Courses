@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L8Z3UBvgWIVjClretEYYSArk1sg+zg5EWPXMP24nwOXWqanYQktL0xB1olOMghyHgnu3rNAUSM+VmDyS+U+jHw==",
+  "dgSpecHash": "AN43lGA0XsqrB01Fmn1yg1DhlDXM5OWyg2JhBI3sWqFuNZ9QlSsHn8MqdsBmbQF01w6PKmM4zEGtVYLPDa5F/w==",
   "success": true,
-  "projectFilePath": "C:\\Didi\\SoftUni\\ForLoop\\Histogram\\Histogram.csproj",
+  "projectFilePath": "C:\\Didi\\SoftUni-Courses\\ForLoop\\Histogram\\Histogram.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

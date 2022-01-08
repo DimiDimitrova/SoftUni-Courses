@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GeCsDWH3gxFdST81kVBn9fmLku8cX5CSUgZIs5kehhIzc06+Fn8Ag/iA3IXaa/8R0wUmykQE14sRwuIzzay68w==",
+  "dgSpecHash": "ezKv4RgLI0uzneakh8Jnlxs6P+rQVpP+of6MjScOr1bo3cGttEUE/V4oLK27Ad0nSEV3LXSpoEUTHKzNdqCB8A==",
   "success": true,
-  "projectFilePath": "C:\\Didi\\SoftUni\\Greeting\\InchesToSantimeters\\InchesToCentimeters.csproj",
+  "projectFilePath": "C:\\Didi\\SoftUni-Courses\\Greeting\\InchesToSantimeters\\InchesToCentimeters.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

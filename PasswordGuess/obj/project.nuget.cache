@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h16AacrqHYDgwFJxJ2lVH5P9jOK//xSx0qUr3KiV/53zvaPYCXGIKuD/cPOdEvC77ex9YH+uNsmgFBbdtMLH2Q==",
+  "dgSpecHash": "aqclMBXUntyaMA41r8Vbjo57QcpujzfmJ42LyLSZz5M2eKn6+h4UX7TPnBbeqHD7ub6PkyAmAmpHfUsVb696AA==",
   "success": true,
-  "projectFilePath": "C:\\Didi\\SoftUni\\PasswordGuess\\PasswordGuess.csproj",
+  "projectFilePath": "C:\\Didi\\SoftUni-Courses\\PasswordGuess\\PasswordGuess.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

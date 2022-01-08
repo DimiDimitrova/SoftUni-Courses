@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Didi\\SoftUni\\Greeting\\Greeting\\Greeting.csproj": {}
+    "C:\\Didi\\SoftUni-Courses\\Greeting\\Greeting\\Greeting.csproj": {}
   },
   "projects": {
-    "C:\\Didi\\SoftUni\\Greeting\\Greeting\\Greeting.csproj": {
+    "C:\\Didi\\SoftUni-Courses\\Greeting\\Greeting\\Greeting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Didi\\SoftUni\\Greeting\\Greeting\\Greeting.csproj",
+        "projectUniqueName": "C:\\Didi\\SoftUni-Courses\\Greeting\\Greeting\\Greeting.csproj",
         "projectName": "Greeting",
-        "projectPath": "C:\\Didi\\SoftUni\\Greeting\\Greeting\\Greeting.csproj",
+        "projectPath": "C:\\Didi\\SoftUni-Courses\\Greeting\\Greeting\\Greeting.csproj",
         "packagesPath": "C:\\Users\\Didi\\.nuget\\packages\\",
-        "outputPath": "C:\\Didi\\SoftUni\\Greeting\\Greeting\\obj\\",
+        "outputPath": "C:\\Didi\\SoftUni-Courses\\Greeting\\Greeting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

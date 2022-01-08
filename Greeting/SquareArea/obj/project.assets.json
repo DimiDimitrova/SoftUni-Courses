@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Didi\\SoftUni\\Greeting\\SquareArea\\SquareArea.csproj",
+      "projectUniqueName": "C:\\Didi\\SoftUni-Courses\\Greeting\\SquareArea\\SquareArea.csproj",
       "projectName": "SquareArea",
-      "projectPath": "C:\\Didi\\SoftUni\\Greeting\\SquareArea\\SquareArea.csproj",
+      "projectPath": "C:\\Didi\\SoftUni-Courses\\Greeting\\SquareArea\\SquareArea.csproj",
       "packagesPath": "C:\\Users\\Didi\\.nuget\\packages\\",
-      "outputPath": "C:\\Didi\\SoftUni\\Greeting\\SquareArea\\obj\\",
+      "outputPath": "C:\\Didi\\SoftUni-Courses\\Greeting\\SquareArea\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

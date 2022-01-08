@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YZ7dDCbASby01u58YLlZOVZcXmc/1nHkxTW7+lJSNT15k/68UysTX6FG8qzIm6XC8jPGVVUQQYtCOUTwc/ekhg==",
+  "dgSpecHash": "WNQByP56aXCj7crj1lo+HEE0q4Ea21s2CZiE5Wow4DX1WHEtA42/lB5FlXvFGRXQ25gEKNz2IFNlLlCc4knGZQ==",
   "success": true,
-  "projectFilePath": "C:\\Didi\\SoftUni\\Recursion\\FindingAllPathsInLabyrinth\\FindingAllPathsInLabyrinth.csproj",
+  "projectFilePath": "C:\\Didi\\SoftUni-Courses\\Recursion\\FindingAllPathsInLabyrinth\\FindingAllPathsInLabyrinth.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

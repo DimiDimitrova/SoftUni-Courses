@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mDPWXKPYunINKKcKGfR3ZQ1A+PTA4kolSHgTILEcmJJzaBzONTHWVzmOISrgml7LuhRaRdJE9yKudMl7TYj4xA==",
+  "dgSpecHash": "GyuIg4178NOKIwIqU9/JewZKtRHJz0hR3mjRV9p3wpp6bxFlYo40B4NVLxd0bRvJx/B7XQzDW48ilivMqpoRQQ==",
   "success": true,
-  "projectFilePath": "C:\\Didi\\SoftUni\\SpeedInfo\\SpeedInfo.csproj",
+  "projectFilePath": "C:\\Didi\\SoftUni-Courses\\SpeedInfo\\SpeedInfo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

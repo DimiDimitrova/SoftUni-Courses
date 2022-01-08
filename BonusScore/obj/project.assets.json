@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Didi\\SoftUni\\BonusScore\\BonusScore.csproj",
+      "projectUniqueName": "C:\\Didi\\SoftUni-Courses\\BonusScore\\BonusScore.csproj",
       "projectName": "BonusScore",
-      "projectPath": "C:\\Didi\\SoftUni\\BonusScore\\BonusScore.csproj",
+      "projectPath": "C:\\Didi\\SoftUni-Courses\\BonusScore\\BonusScore.csproj",
       "packagesPath": "C:\\Users\\Didi\\.nuget\\packages\\",
-      "outputPath": "C:\\Didi\\SoftUni\\BonusScore\\obj\\",
+      "outputPath": "C:\\Didi\\SoftUni-Courses\\BonusScore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

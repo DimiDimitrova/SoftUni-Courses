@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreaterNumber", "..\Conditi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenOrOdd", "..\EvenOrOdd\EvenOrOdd.csproj", "{79962776-71EE-4E25-9D3E-9BED3DC57F5C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number1To9ToText", "..\ConsoleApp1\Number1To9ToText.csproj", "{BB5EFFA3-D0D6-4C30-88AE-F1EC434232D7}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number100To200", "..\Number100To200\Number100To200.csproj", "{117587A6-2EC4-4A44-93F7-EC1E14769B31}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PasswordGuess", "..\PasswordGuess\PasswordGuess.csproj", "{8897949F-90EE-4C34-8B71-CC320A6313FB}"
@@ -31,9 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetricConverter", "..\Metri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Time15Minutes", "..\Time15Minutes\Time15Minutes.csproj", "{D9E22026-AE61-4881-8D2F-ED1B6C1B988C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldSwimmingRecord", "..\WorldSwimmingRecord\WorldSwimmingRecord.csproj", "{FFDE18BC-9BEF-4F73-830E-E683C14A110D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorldSwimmingRecord", "..\WorldSwimmingRecord\WorldSwimmingRecord.csproj", "{FFDE18BC-9BEF-4F73-830E-E683C14A110D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scholarship", "..\Schoolarship\Scholarship.csproj", "{E490C965-9EE6-4A3E-96BB-C6EF9F5916D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scholarship", "..\Schoolarship\Scholarship.csproj", "{E490C965-9EE6-4A3E-96BB-C6EF9F5916D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,10 +51,6 @@ Global
 		{79962776-71EE-4E25-9D3E-9BED3DC57F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79962776-71EE-4E25-9D3E-9BED3DC57F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79962776-71EE-4E25-9D3E-9BED3DC57F5C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BB5EFFA3-D0D6-4C30-88AE-F1EC434232D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BB5EFFA3-D0D6-4C30-88AE-F1EC434232D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BB5EFFA3-D0D6-4C30-88AE-F1EC434232D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BB5EFFA3-D0D6-4C30-88AE-F1EC434232D7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{117587A6-2EC4-4A44-93F7-EC1E14769B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{117587A6-2EC4-4A44-93F7-EC1E14769B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{117587A6-2EC4-4A44-93F7-EC1E14769B31}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xeCpp7T//1pYHrGq+SVZM4VJE9erZhEAMQpSj3xRGgHjTU8NUGdRI3Y53h+DFK3oMdIcDzhasLp65chPJx8xHA==",
+  "dgSpecHash": "XEuEsrtlrKOoP2Y8TUkrQQaULGrzjdXW9Jwd9pAsRxeBIMbk1BPdrIy12wmr+fOTLYZaP3JmwhEv1IzKEWBsUg==",
   "success": true,
-  "projectFilePath": "C:\\Didi\\SoftUni\\EvenOrOdd\\EvenOrOdd.csproj",
+  "projectFilePath": "C:\\Didi\\SoftUni-Courses\\EvenOrOdd\\EvenOrOdd.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -8,3 +8,13 @@ C:\Didi\SoftUni\ExamUnwe\Currency\obj\Debug\Currency.csproj.GenerateResource.cac
 C:\Didi\SoftUni\ExamUnwe\Currency\obj\Debug\Currency.csproj.CoreCompileInputs.cache
 C:\Didi\SoftUni\ExamUnwe\Currency\obj\Debug\Currency.exe
 C:\Didi\SoftUni\ExamUnwe\Currency\obj\Debug\Currency.pdb
+C:\Didi\SoftUni-Courses\ExamUnwe\Currency\bin\Debug\Currency.exe.config
+C:\Didi\SoftUni-Courses\ExamUnwe\Currency\bin\Debug\Currency.exe
+C:\Didi\SoftUni-Courses\ExamUnwe\Currency\bin\Debug\Currency.pdb
+C:\Didi\SoftUni-Courses\ExamUnwe\Currency\obj\Debug\Currency.csproj.AssemblyReference.cache
+C:\Didi\SoftUni-Courses\ExamUnwe\Currency\obj\Debug\Currency.convertCurrency.resources
+C:\Didi\SoftUni-Courses\ExamUnwe\Currency\obj\Debug\Currency.Properties.Resources.resources
+C:\Didi\SoftUni-Courses\ExamUnwe\Currency\obj\Debug\Currency.csproj.GenerateResource.cache
+C:\Didi\SoftUni-Courses\ExamUnwe\Currency\obj\Debug\Currency.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni-Courses\ExamUnwe\Currency\obj\Debug\Currency.exe
+C:\Didi\SoftUni-Courses\ExamUnwe\Currency\obj\Debug\Currency.pdb

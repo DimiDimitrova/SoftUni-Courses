@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Didi\\SoftUni\\AreaOfFigures\\AreaOfFigures.csproj",
+      "projectUniqueName": "C:\\Didi\\SoftUni-Courses\\AreaOfFigures\\AreaOfFigures.csproj",
       "projectName": "AreaOfFigures",
-      "projectPath": "C:\\Didi\\SoftUni\\AreaOfFigures\\AreaOfFigures.csproj",
+      "projectPath": "C:\\Didi\\SoftUni-Courses\\AreaOfFigures\\AreaOfFigures.csproj",
       "packagesPath": "C:\\Users\\Didi\\.nuget\\packages\\",
-      "outputPath": "C:\\Didi\\SoftUni\\AreaOfFigures\\obj\\",
+      "outputPath": "C:\\Didi\\SoftUni-Courses\\AreaOfFigures\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

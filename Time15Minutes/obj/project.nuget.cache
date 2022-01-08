@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LMLB2Tq9NvDXxP3lgfw4UepGgWhpIMwyFLAAEOaYT3COPHn0+bkIA0kdGtQpxkAJMaDuxUNiP3pmM6+DpUxKrQ==",
+  "dgSpecHash": "g7Vwpw9okIlwciGQg0/cRqHS5Wg6lwxjTmBoD7FEnTdMCGtvB4tkJw3yXGEAs5A909LOg/5N47j1oivlNjFBnA==",
   "success": true,
-  "projectFilePath": "C:\\Didi\\SoftUni\\Time15Minutes\\Time15Minutes.csproj",
+  "projectFilePath": "C:\\Didi\\SoftUni-Courses\\Time15Minutes\\Time15Minutes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

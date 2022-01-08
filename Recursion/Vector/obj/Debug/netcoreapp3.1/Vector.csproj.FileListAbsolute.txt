@@ -11,3 +11,17 @@ C:\Didi\SoftUni\Recursion\Vector\obj\Debug\netcoreapp3.1\Vector.csproj.CoreCompi
 C:\Didi\SoftUni\Recursion\Vector\obj\Debug\netcoreapp3.1\Vector.dll
 C:\Didi\SoftUni\Recursion\Vector\obj\Debug\netcoreapp3.1\Vector.pdb
 C:\Didi\SoftUni\Recursion\Vector\obj\Debug\netcoreapp3.1\Vector.genruntimeconfig.cache
+C:\Didi\SoftUni-Courses\Recursion\Vector\bin\Debug\netcoreapp3.1\Vector.exe
+C:\Didi\SoftUni-Courses\Recursion\Vector\bin\Debug\netcoreapp3.1\Vector.deps.json
+C:\Didi\SoftUni-Courses\Recursion\Vector\bin\Debug\netcoreapp3.1\Vector.runtimeconfig.json
+C:\Didi\SoftUni-Courses\Recursion\Vector\bin\Debug\netcoreapp3.1\Vector.runtimeconfig.dev.json
+C:\Didi\SoftUni-Courses\Recursion\Vector\bin\Debug\netcoreapp3.1\Vector.dll
+C:\Didi\SoftUni-Courses\Recursion\Vector\bin\Debug\netcoreapp3.1\Vector.pdb
+C:\Didi\SoftUni-Courses\Recursion\Vector\obj\Debug\netcoreapp3.1\Vector.csproj.AssemblyReference.cache
+C:\Didi\SoftUni-Courses\Recursion\Vector\obj\Debug\netcoreapp3.1\Vector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Didi\SoftUni-Courses\Recursion\Vector\obj\Debug\netcoreapp3.1\Vector.AssemblyInfoInputs.cache
+C:\Didi\SoftUni-Courses\Recursion\Vector\obj\Debug\netcoreapp3.1\Vector.AssemblyInfo.cs
+C:\Didi\SoftUni-Courses\Recursion\Vector\obj\Debug\netcoreapp3.1\Vector.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni-Courses\Recursion\Vector\obj\Debug\netcoreapp3.1\Vector.dll
+C:\Didi\SoftUni-Courses\Recursion\Vector\obj\Debug\netcoreapp3.1\Vector.pdb
+C:\Didi\SoftUni-Courses\Recursion\Vector\obj\Debug\netcoreapp3.1\Vector.genruntimeconfig.cache

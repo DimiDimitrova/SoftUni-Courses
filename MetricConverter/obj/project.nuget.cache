@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Tpoyzbx8bgDYFwaIdJnNWUSGvth0CZ+NvdA/E5C0s69rcTS+Nrtl1D1aNzwtLVl0z0EqdMGaTrXb1jgIt9/ZA==",
+  "dgSpecHash": "Y0uqo0+yW1Omvlc56lq1LXkiN4qE3RM+YPPRA08hzoLKElZQJjcz+Eph29bXRAy87OdbWm3CkB1lFdEizZqzTg==",
   "success": true,
-  "projectFilePath": "C:\\Didi\\SoftUni\\MetricConverter\\MetricConverter.csproj",
+  "projectFilePath": "C:\\Didi\\SoftUni-Courses\\MetricConverter\\MetricConverter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

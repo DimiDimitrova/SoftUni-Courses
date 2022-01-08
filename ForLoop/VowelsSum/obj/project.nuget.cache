@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IkUnl2Uo4LRzwjoUQ5DgpaTrBHEDEZiHIbk0BW/MZo4ChooD7jmAtq+jshvMPKKrKWy+Ibba4WwIjBeSBZFNaA==",
+  "dgSpecHash": "jhHJmSY8+sHiQxre0jbGiRUDYwei68jk5yrpjqaVi0ZF9gcwROmCpOB3Ubqwk7zFJCIwypa2idTCZvwogEUYoQ==",
   "success": true,
-  "projectFilePath": "C:\\Didi\\SoftUni\\ForLoop\\VowelsSum\\VowelsSum.csproj",
+  "projectFilePath": "C:\\Didi\\SoftUni-Courses\\ForLoop\\VowelsSum\\VowelsSum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Didi\\SoftUni\\Recursion\\Recursion\\Recursion.csproj",
+      "projectUniqueName": "C:\\Didi\\SoftUni-Courses\\Recursion\\Recursion\\Recursion.csproj",
       "projectName": "Recursion",
-      "projectPath": "C:\\Didi\\SoftUni\\Recursion\\Recursion\\Recursion.csproj",
+      "projectPath": "C:\\Didi\\SoftUni-Courses\\Recursion\\Recursion\\Recursion.csproj",
       "packagesPath": "C:\\Users\\Didi\\.nuget\\packages\\",
-      "outputPath": "C:\\Didi\\SoftUni\\Recursion\\Recursion\\obj\\",
+      "outputPath": "C:\\Didi\\SoftUni-Courses\\Recursion\\Recursion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

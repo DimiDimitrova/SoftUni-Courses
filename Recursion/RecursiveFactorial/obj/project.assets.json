@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Didi\\SoftUni\\Recursion\\RecursiveFactorial\\RecursiveFactorial.csproj",
+      "projectUniqueName": "C:\\Didi\\SoftUni-Courses\\Recursion\\RecursiveFactorial\\RecursiveFactorial.csproj",
       "projectName": "RecursiveFactorial",
-      "projectPath": "C:\\Didi\\SoftUni\\Recursion\\RecursiveFactorial\\RecursiveFactorial.csproj",
+      "projectPath": "C:\\Didi\\SoftUni-Courses\\Recursion\\RecursiveFactorial\\RecursiveFactorial.csproj",
       "packagesPath": "C:\\Users\\Didi\\.nuget\\packages\\",
-      "outputPath": "C:\\Didi\\SoftUni\\Recursion\\RecursiveFactorial\\obj\\",
+      "outputPath": "C:\\Didi\\SoftUni-Courses\\Recursion\\RecursiveFactorial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

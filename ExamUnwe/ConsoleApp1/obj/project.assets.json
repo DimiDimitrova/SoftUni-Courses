@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Didi\\SoftUni\\ExamUnwe\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Didi\\SoftUni\\ExamUnwe\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Didi\\SoftUni-Courses\\ExamUnwe\\ConsoleApp1\\ReverseForLoop.csproj",
+      "projectName": "ReverseForLoop",
+      "projectPath": "C:\\Didi\\SoftUni-Courses\\ExamUnwe\\ConsoleApp1\\ReverseForLoop.csproj",
       "packagesPath": "C:\\Users\\Didi\\.nuget\\packages\\",
-      "outputPath": "C:\\Didi\\SoftUni\\ExamUnwe\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Didi\\SoftUni-Courses\\ExamUnwe\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

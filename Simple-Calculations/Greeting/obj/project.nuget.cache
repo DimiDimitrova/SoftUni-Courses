@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IEY5Dqr5Pi7z2xemGYPbd1nps18AKw+IJYlTDxqrwKK3kktgS9TUia/1acNRoE3fEP9KrXRUP5D6/3r826UqSA==",
+  "dgSpecHash": "TQlm4eJfCCv6ZPn/FOydm+DCUo1B25j0hRIaZEbdtBzDronlzB9bTdjX8q+2TualjgFzNopKzw9bYRl1nZ0F5w==",
   "success": true,
-  "projectFilePath": "C:\\Didi\\SoftUni\\Simple-Calculations\\Greeting\\Greeting.csproj",
+  "projectFilePath": "C:\\Didi\\SoftUni-Courses\\Simple-Calculations\\Greeting\\Greeting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -8,33 +8,33 @@ namespace HotelRoom
         {
             string months = Console.ReadLine();
             int countNight = int.Parse(Console.ReadLine());
-            double priceS = 0;
-            double priceA = 0;
+            double priceStudio = 0;
+            double priceAparthment = 0;
             double discount = 0;
 
             switch (months)
             {
                 case "May":
                 case "Octomber":
-                    priceS = 50;
-                    priceA = 65;
+                    priceStudio = 50;
+                    priceAparthment = 65;
                     break;
                 case "June":
                 case "September":
-                    priceS = 75.20;
-                    priceA = 68.70;
+                    priceStudio = 75.20;
+                    priceAparthment = 68.70;
                     break;
                 case "July":
                 case "August":
-                    priceS = 76;
-                    priceA = 77;
+                    priceStudio = 76;
+                    priceAparthment = 77;
                     break;
 
             }
             if (countNight > 7 && countNight <= 14 && (months == "May" || months == "Octomber"))
             {
                 discount = 0.05;
-                priceS -= priceS * discount;
+                priceStudio -= priceStudio * discount;
 
             }
             else if (countNight >= 14)
@@ -44,14 +44,14 @@ namespace HotelRoom
 
                     discount = 0.3;
 
-                    priceS -= priceS * discount;
+                    priceStudio -= priceStudio * discount;
 
                 }
                 else if (months == "June" || months == "September")
                 {
                     discount = 0.2;
 
-                    priceS -= priceS * discount;
+                    priceStudio -= priceStudio * discount;
 
                 }
             }
@@ -63,12 +63,12 @@ namespace HotelRoom
                 if (isTrue)
             {
                 discountA = 0.1;
-                priceA -= priceA * discountA;
+                priceAparthment -= priceAparthment * discountA;
             }
             double totalS = 0;
             double totalA = 0;
-            totalS = countNight * priceS;
-            totalA = countNight * priceA;
+            totalS = countNight * priceStudio;
+            totalA = countNight * priceAparthment;
             Console.WriteLine($"Apartment: {totalA:F2} lv.");
             Console.WriteLine($"Studio: {totalS:F2} lv.");
 
