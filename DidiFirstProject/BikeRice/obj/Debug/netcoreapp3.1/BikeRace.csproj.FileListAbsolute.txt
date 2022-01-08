@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\DidiFirstProject\BikeRice\bin\Debug\netcoreapp3.1\BikeRace.exe
+C:\Didi\SoftUni\DidiFirstProject\BikeRice\bin\Debug\netcoreapp3.1\BikeRace.deps.json
+C:\Didi\SoftUni\DidiFirstProject\BikeRice\bin\Debug\netcoreapp3.1\BikeRace.runtimeconfig.json
+C:\Didi\SoftUni\DidiFirstProject\BikeRice\bin\Debug\netcoreapp3.1\BikeRace.runtimeconfig.dev.json
+C:\Didi\SoftUni\DidiFirstProject\BikeRice\bin\Debug\netcoreapp3.1\BikeRace.dll
+C:\Didi\SoftUni\DidiFirstProject\BikeRice\bin\Debug\netcoreapp3.1\BikeRace.pdb
+C:\Didi\SoftUni\DidiFirstProject\BikeRice\obj\Debug\netcoreapp3.1\BikeRace.csprojAssemblyReference.cache
+C:\Didi\SoftUni\DidiFirstProject\BikeRice\obj\Debug\netcoreapp3.1\BikeRace.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\DidiFirstProject\BikeRice\obj\Debug\netcoreapp3.1\BikeRace.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\DidiFirstProject\BikeRice\obj\Debug\netcoreapp3.1\BikeRace.AssemblyInfo.cs
+C:\Didi\SoftUni\DidiFirstProject\BikeRice\obj\Debug\netcoreapp3.1\BikeRace.dll
+C:\Didi\SoftUni\DidiFirstProject\BikeRice\obj\Debug\netcoreapp3.1\BikeRace.pdb
+C:\Didi\SoftUni\DidiFirstProject\BikeRice\obj\Debug\netcoreapp3.1\BikeRace.genruntimeconfig.cache

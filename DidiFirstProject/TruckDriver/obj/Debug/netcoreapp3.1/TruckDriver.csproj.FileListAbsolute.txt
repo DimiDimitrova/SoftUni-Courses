@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\DidiFirstProject\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.exe
+C:\Didi\SoftUni\DidiFirstProject\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.deps.json
+C:\Didi\SoftUni\DidiFirstProject\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.runtimeconfig.json
+C:\Didi\SoftUni\DidiFirstProject\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.runtimeconfig.dev.json
+C:\Didi\SoftUni\DidiFirstProject\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.dll
+C:\Didi\SoftUni\DidiFirstProject\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.pdb
+C:\Didi\SoftUni\DidiFirstProject\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.csprojAssemblyReference.cache
+C:\Didi\SoftUni\DidiFirstProject\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\DidiFirstProject\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\DidiFirstProject\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.AssemblyInfo.cs
+C:\Didi\SoftUni\DidiFirstProject\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.dll
+C:\Didi\SoftUni\DidiFirstProject\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.pdb
+C:\Didi\SoftUni\DidiFirstProject\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.genruntimeconfig.cache

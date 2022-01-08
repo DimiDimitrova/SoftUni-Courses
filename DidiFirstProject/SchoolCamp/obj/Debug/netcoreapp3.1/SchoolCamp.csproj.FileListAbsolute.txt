@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\DidiFirstProject\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.exe
+C:\Didi\SoftUni\DidiFirstProject\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.deps.json
+C:\Didi\SoftUni\DidiFirstProject\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.runtimeconfig.json
+C:\Didi\SoftUni\DidiFirstProject\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.runtimeconfig.dev.json
+C:\Didi\SoftUni\DidiFirstProject\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.dll
+C:\Didi\SoftUni\DidiFirstProject\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.pdb
+C:\Didi\SoftUni\DidiFirstProject\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.csprojAssemblyReference.cache
+C:\Didi\SoftUni\DidiFirstProject\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\DidiFirstProject\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\DidiFirstProject\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.AssemblyInfo.cs
+C:\Didi\SoftUni\DidiFirstProject\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.dll
+C:\Didi\SoftUni\DidiFirstProject\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.pdb
+C:\Didi\SoftUni\DidiFirstProject\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.genruntimeconfig.cache

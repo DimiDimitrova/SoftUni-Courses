@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\DidiFirstProject\MatchTickets\obj\Debug\netcoreapp3.1\MatchTickets.csprojAssemblyReference.cache
+C:\Didi\SoftUni\DidiFirstProject\MatchTickets\obj\Debug\netcoreapp3.1\MatchTickets.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\DidiFirstProject\MatchTickets\obj\Debug\netcoreapp3.1\MatchTickets.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\DidiFirstProject\MatchTickets\obj\Debug\netcoreapp3.1\MatchTickets.AssemblyInfo.cs
+C:\Didi\SoftUni\DidiFirstProject\MatchTickets\bin\Debug\netcoreapp3.1\MatchTickets.exe
+C:\Didi\SoftUni\DidiFirstProject\MatchTickets\bin\Debug\netcoreapp3.1\MatchTickets.deps.json
+C:\Didi\SoftUni\DidiFirstProject\MatchTickets\bin\Debug\netcoreapp3.1\MatchTickets.runtimeconfig.json
+C:\Didi\SoftUni\DidiFirstProject\MatchTickets\bin\Debug\netcoreapp3.1\MatchTickets.runtimeconfig.dev.json
+C:\Didi\SoftUni\DidiFirstProject\MatchTickets\bin\Debug\netcoreapp3.1\MatchTickets.dll
+C:\Didi\SoftUni\DidiFirstProject\MatchTickets\bin\Debug\netcoreapp3.1\MatchTickets.pdb
+C:\Didi\SoftUni\DidiFirstProject\MatchTickets\obj\Debug\netcoreapp3.1\MatchTickets.dll
+C:\Didi\SoftUni\DidiFirstProject\MatchTickets\obj\Debug\netcoreapp3.1\MatchTickets.pdb
+C:\Didi\SoftUni\DidiFirstProject\MatchTickets\obj\Debug\netcoreapp3.1\MatchTickets.genruntimeconfig.cache

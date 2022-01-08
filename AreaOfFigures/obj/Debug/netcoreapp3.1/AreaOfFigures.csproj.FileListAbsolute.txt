@@ -1,0 +1,14 @@
+C:\Didi\SoftUni\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.exe
+C:\Didi\SoftUni\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.deps.json
+C:\Didi\SoftUni\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.runtimeconfig.json
+C:\Didi\SoftUni\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.runtimeconfig.dev.json
+C:\Didi\SoftUni\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.dll
+C:\Didi\SoftUni\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.pdb
+C:\Didi\SoftUni\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.AssemblyInfo.cs
+C:\Didi\SoftUni\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.dll
+C:\Didi\SoftUni\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.pdb
+C:\Didi\SoftUni\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.genruntimeconfig.cache
+C:\Didi\SoftUni\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.csproj.AssemblyReference.cache
+C:\Didi\SoftUni\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig

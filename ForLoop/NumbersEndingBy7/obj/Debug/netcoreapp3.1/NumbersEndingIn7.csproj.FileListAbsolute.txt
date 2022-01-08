@@ -1,0 +1,12 @@
+C:\Didi\SoftUni\ForLoop\NumbersEndingBy7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.exe
+C:\Didi\SoftUni\ForLoop\NumbersEndingBy7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.deps.json
+C:\Didi\SoftUni\ForLoop\NumbersEndingBy7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.runtimeconfig.json
+C:\Didi\SoftUni\ForLoop\NumbersEndingBy7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.runtimeconfig.dev.json
+C:\Didi\SoftUni\ForLoop\NumbersEndingBy7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.dll
+C:\Didi\SoftUni\ForLoop\NumbersEndingBy7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.pdb
+C:\Didi\SoftUni\ForLoop\NumbersEndingBy7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ForLoop\NumbersEndingBy7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ForLoop\NumbersEndingBy7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.AssemblyInfo.cs
+C:\Didi\SoftUni\ForLoop\NumbersEndingBy7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.dll
+C:\Didi\SoftUni\ForLoop\NumbersEndingBy7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.pdb
+C:\Didi\SoftUni\ForLoop\NumbersEndingBy7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\BookPro\BookPro\bin\Debug\netcoreapp3.1\BookPro.exe
+C:\Didi\SoftUni\BookPro\BookPro\bin\Debug\netcoreapp3.1\BookPro.deps.json
+C:\Didi\SoftUni\BookPro\BookPro\bin\Debug\netcoreapp3.1\BookPro.runtimeconfig.json
+C:\Didi\SoftUni\BookPro\BookPro\bin\Debug\netcoreapp3.1\BookPro.runtimeconfig.dev.json
+C:\Didi\SoftUni\BookPro\BookPro\bin\Debug\netcoreapp3.1\BookPro.dll
+C:\Didi\SoftUni\BookPro\BookPro\bin\Debug\netcoreapp3.1\BookPro.pdb
+C:\Didi\SoftUni\BookPro\BookPro\obj\Debug\netcoreapp3.1\BookPro.csprojAssemblyReference.cache
+C:\Didi\SoftUni\BookPro\BookPro\obj\Debug\netcoreapp3.1\BookPro.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\BookPro\BookPro\obj\Debug\netcoreapp3.1\BookPro.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\BookPro\BookPro\obj\Debug\netcoreapp3.1\BookPro.AssemblyInfo.cs
+C:\Didi\SoftUni\BookPro\BookPro\obj\Debug\netcoreapp3.1\BookPro.dll
+C:\Didi\SoftUni\BookPro\BookPro\obj\Debug\netcoreapp3.1\BookPro.pdb
+C:\Didi\SoftUni\BookPro\BookPro\obj\Debug\netcoreapp3.1\BookPro.genruntimeconfig.cache

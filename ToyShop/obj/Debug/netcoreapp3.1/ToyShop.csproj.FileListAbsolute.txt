@@ -1,0 +1,14 @@
+C:\Didi\SoftUni\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.exe
+C:\Didi\SoftUni\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.deps.json
+C:\Didi\SoftUni\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.runtimeconfig.json
+C:\Didi\SoftUni\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.runtimeconfig.dev.json
+C:\Didi\SoftUni\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.dll
+C:\Didi\SoftUni\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.pdb
+C:\Didi\SoftUni\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.AssemblyInfo.cs
+C:\Didi\SoftUni\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.dll
+C:\Didi\SoftUni\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.pdb
+C:\Didi\SoftUni\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.genruntimeconfig.cache
+C:\Didi\SoftUni\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.csproj.AssemblyReference.cache
+C:\Didi\SoftUni\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.GeneratedMSBuildEditorConfig.editorconfig

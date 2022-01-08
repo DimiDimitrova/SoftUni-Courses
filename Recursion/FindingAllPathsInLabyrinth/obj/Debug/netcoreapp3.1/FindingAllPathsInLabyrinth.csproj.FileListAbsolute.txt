@@ -1,0 +1,15 @@
+C:\Didi\SoftUni\Recursion\FindingAllPathsInLabyrinth\bin\Debug\netcoreapp3.1\FindingAllPathsInLabyrinth.exe
+C:\Didi\SoftUni\Recursion\FindingAllPathsInLabyrinth\bin\Debug\netcoreapp3.1\FindingAllPathsInLabyrinth.deps.json
+C:\Didi\SoftUni\Recursion\FindingAllPathsInLabyrinth\bin\Debug\netcoreapp3.1\FindingAllPathsInLabyrinth.runtimeconfig.json
+C:\Didi\SoftUni\Recursion\FindingAllPathsInLabyrinth\bin\Debug\netcoreapp3.1\FindingAllPathsInLabyrinth.runtimeconfig.dev.json
+C:\Didi\SoftUni\Recursion\FindingAllPathsInLabyrinth\bin\Debug\netcoreapp3.1\FindingAllPathsInLabyrinth.dll
+C:\Didi\SoftUni\Recursion\FindingAllPathsInLabyrinth\bin\Debug\netcoreapp3.1\FindingAllPathsInLabyrinth.pdb
+C:\Didi\SoftUni\Recursion\FindingAllPathsInLabyrinth\obj\Debug\netcoreapp3.1\FindingAllPathsInLabyrinth.csproj.AssemblyReference.cache
+C:\Didi\SoftUni\Recursion\FindingAllPathsInLabyrinth\obj\Debug\netcoreapp3.1\FindingAllPathsInLabyrinth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Didi\SoftUni\Recursion\FindingAllPathsInLabyrinth\obj\Debug\netcoreapp3.1\FindingAllPathsInLabyrinth.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\Recursion\FindingAllPathsInLabyrinth\obj\Debug\netcoreapp3.1\FindingAllPathsInLabyrinth.AssemblyInfo.cs
+C:\Didi\SoftUni\Recursion\FindingAllPathsInLabyrinth\obj\Debug\netcoreapp3.1\FindingAllPathsInLabyrinth.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\Recursion\FindingAllPathsInLabyrinth\obj\Debug\netcoreapp3.1\FindingAllPathsInLabyrinth.dll
+C:\Didi\SoftUni\Recursion\FindingAllPathsInLabyrinth\obj\Debug\netcoreapp3.1\FindingAllPathsInLabyrinth.pdb
+C:\Didi\SoftUni\Recursion\FindingAllPathsInLabyrinth\obj\Debug\netcoreapp3.1\FindingAllPathsInLabyrinth.genruntimeconfig.cache
+C:\Didi\SoftUni\Recursion\FindingAllPathsInLabyrinth\bin\Debug\netcoreapp3.1\TextFile.txt

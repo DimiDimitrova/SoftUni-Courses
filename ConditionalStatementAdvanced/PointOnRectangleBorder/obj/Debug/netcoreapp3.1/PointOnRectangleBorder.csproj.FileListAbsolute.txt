@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PointOnRectangleBorder\bin\Debug\netcoreapp3.1\PointOnRectangleBorder.exe
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PointOnRectangleBorder\bin\Debug\netcoreapp3.1\PointOnRectangleBorder.deps.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PointOnRectangleBorder\bin\Debug\netcoreapp3.1\PointOnRectangleBorder.runtimeconfig.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PointOnRectangleBorder\bin\Debug\netcoreapp3.1\PointOnRectangleBorder.runtimeconfig.dev.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PointOnRectangleBorder\bin\Debug\netcoreapp3.1\PointOnRectangleBorder.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PointOnRectangleBorder\bin\Debug\netcoreapp3.1\PointOnRectangleBorder.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PointOnRectangleBorder\obj\Debug\netcoreapp3.1\PointOnRectangleBorder.csprojAssemblyReference.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PointOnRectangleBorder\obj\Debug\netcoreapp3.1\PointOnRectangleBorder.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PointOnRectangleBorder\obj\Debug\netcoreapp3.1\PointOnRectangleBorder.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PointOnRectangleBorder\obj\Debug\netcoreapp3.1\PointOnRectangleBorder.AssemblyInfo.cs
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PointOnRectangleBorder\obj\Debug\netcoreapp3.1\PointOnRectangleBorder.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PointOnRectangleBorder\obj\Debug\netcoreapp3.1\PointOnRectangleBorder.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PointOnRectangleBorder\obj\Debug\netcoreapp3.1\PointOnRectangleBorder.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Didi\SoftUni\HelloSoftUni\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.exe
+C:\Users\Didi\SoftUni\HelloSoftUni\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.deps.json
+C:\Users\Didi\SoftUni\HelloSoftUni\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.runtimeconfig.json
+C:\Users\Didi\SoftUni\HelloSoftUni\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.runtimeconfig.dev.json
+C:\Users\Didi\SoftUni\HelloSoftUni\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.dll
+C:\Users\Didi\SoftUni\HelloSoftUni\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.pdb
+C:\Users\Didi\SoftUni\HelloSoftUni\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.csprojAssemblyReference.cache
+C:\Users\Didi\SoftUni\HelloSoftUni\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.csproj.CoreCompileInputs.cache
+C:\Users\Didi\SoftUni\HelloSoftUni\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.AssemblyInfoInputs.cache
+C:\Users\Didi\SoftUni\HelloSoftUni\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.AssemblyInfo.cs
+C:\Users\Didi\SoftUni\HelloSoftUni\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.dll
+C:\Users\Didi\SoftUni\HelloSoftUni\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.pdb
+C:\Users\Didi\SoftUni\HelloSoftUni\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.genruntimeconfig.cache

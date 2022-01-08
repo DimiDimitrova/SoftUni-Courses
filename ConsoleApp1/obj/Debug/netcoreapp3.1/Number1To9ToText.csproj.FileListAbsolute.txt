@@ -1,0 +1,12 @@
+C:\Didi\SoftUni\ConsoleApp1\bin\Debug\netcoreapp3.1\Number1To9ToText.exe
+C:\Didi\SoftUni\ConsoleApp1\bin\Debug\netcoreapp3.1\Number1To9ToText.deps.json
+C:\Didi\SoftUni\ConsoleApp1\bin\Debug\netcoreapp3.1\Number1To9ToText.runtimeconfig.json
+C:\Didi\SoftUni\ConsoleApp1\bin\Debug\netcoreapp3.1\Number1To9ToText.runtimeconfig.dev.json
+C:\Didi\SoftUni\ConsoleApp1\bin\Debug\netcoreapp3.1\Number1To9ToText.dll
+C:\Didi\SoftUni\ConsoleApp1\bin\Debug\netcoreapp3.1\Number1To9ToText.pdb
+C:\Didi\SoftUni\ConsoleApp1\obj\Debug\netcoreapp3.1\Number1To9ToText.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ConsoleApp1\obj\Debug\netcoreapp3.1\Number1To9ToText.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ConsoleApp1\obj\Debug\netcoreapp3.1\Number1To9ToText.AssemblyInfo.cs
+C:\Didi\SoftUni\ConsoleApp1\obj\Debug\netcoreapp3.1\Number1To9ToText.dll
+C:\Didi\SoftUni\ConsoleApp1\obj\Debug\netcoreapp3.1\Number1To9ToText.pdb
+C:\Didi\SoftUni\ConsoleApp1\obj\Debug\netcoreapp3.1\Number1To9ToText.genruntimeconfig.cache

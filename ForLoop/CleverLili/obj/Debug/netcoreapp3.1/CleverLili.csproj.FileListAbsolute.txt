@@ -1,0 +1,12 @@
+C:\Didi\SoftUni\ForLoop\CleverLili\bin\Debug\netcoreapp3.1\CleverLili.exe
+C:\Didi\SoftUni\ForLoop\CleverLili\bin\Debug\netcoreapp3.1\CleverLili.deps.json
+C:\Didi\SoftUni\ForLoop\CleverLili\bin\Debug\netcoreapp3.1\CleverLili.runtimeconfig.json
+C:\Didi\SoftUni\ForLoop\CleverLili\bin\Debug\netcoreapp3.1\CleverLili.runtimeconfig.dev.json
+C:\Didi\SoftUni\ForLoop\CleverLili\bin\Debug\netcoreapp3.1\CleverLili.dll
+C:\Didi\SoftUni\ForLoop\CleverLili\bin\Debug\netcoreapp3.1\CleverLili.pdb
+C:\Didi\SoftUni\ForLoop\CleverLili\obj\Debug\netcoreapp3.1\CleverLili.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ForLoop\CleverLili\obj\Debug\netcoreapp3.1\CleverLili.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ForLoop\CleverLili\obj\Debug\netcoreapp3.1\CleverLili.AssemblyInfo.cs
+C:\Didi\SoftUni\ForLoop\CleverLili\obj\Debug\netcoreapp3.1\CleverLili.dll
+C:\Didi\SoftUni\ForLoop\CleverLili\obj\Debug\netcoreapp3.1\CleverLili.pdb
+C:\Didi\SoftUni\ForLoop\CleverLili\obj\Debug\netcoreapp3.1\CleverLili.genruntimeconfig.cache

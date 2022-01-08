@@ -1,0 +1,10 @@
+C:\Didi\SoftUni\BookPro\Calculate\bin\Debug\Calculate.exe.config
+C:\Didi\SoftUni\BookPro\Calculate\bin\Debug\Calculate.exe
+C:\Didi\SoftUni\BookPro\Calculate\bin\Debug\Calculate.pdb
+C:\Didi\SoftUni\BookPro\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
+C:\Didi\SoftUni\BookPro\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Didi\SoftUni\BookPro\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Didi\SoftUni\BookPro\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\BookPro\Calculate\obj\Debug\Calculate.exe
+C:\Didi\SoftUni\BookPro\Calculate\obj\Debug\Calculate.pdb
+C:\Didi\SoftUni\BookPro\Calculate\obj\Debug\Calculate.Sumator.resources

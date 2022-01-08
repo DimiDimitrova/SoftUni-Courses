@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\ConditionalStatementAdvanced\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.exe
+C:\Didi\SoftUni\ConditionalStatementAdvanced\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.deps.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.runtimeconfig.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.runtimeconfig.dev.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.csprojAssemblyReference.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.AssemblyInfo.cs
+C:\Didi\SoftUni\ConditionalStatementAdvanced\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.genruntimeconfig.cache

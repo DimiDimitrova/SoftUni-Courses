@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\Recursion\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.exe
+C:\Didi\SoftUni\Recursion\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.deps.json
+C:\Didi\SoftUni\Recursion\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.runtimeconfig.json
+C:\Didi\SoftUni\Recursion\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.runtimeconfig.dev.json
+C:\Didi\SoftUni\Recursion\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.dll
+C:\Didi\SoftUni\Recursion\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.pdb
+C:\Didi\SoftUni\Recursion\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Didi\SoftUni\Recursion\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\Recursion\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.AssemblyInfo.cs
+C:\Didi\SoftUni\Recursion\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\Recursion\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.dll
+C:\Didi\SoftUni\Recursion\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.pdb
+C:\Didi\SoftUni\Recursion\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.genruntimeconfig.cache

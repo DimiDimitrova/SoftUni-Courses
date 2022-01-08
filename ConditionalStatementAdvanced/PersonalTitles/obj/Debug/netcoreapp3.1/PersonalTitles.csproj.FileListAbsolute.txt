@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.exe
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.deps.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.runtimeconfig.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.runtimeconfig.dev.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.csprojAssemblyReference.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.AssemblyInfo.cs
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.genruntimeconfig.cache

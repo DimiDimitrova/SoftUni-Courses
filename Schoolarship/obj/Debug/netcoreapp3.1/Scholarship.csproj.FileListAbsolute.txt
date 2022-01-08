@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\Schoolarship\bin\Debug\netcoreapp3.1\Scholarship.exe
+C:\Didi\SoftUni\Schoolarship\bin\Debug\netcoreapp3.1\Scholarship.deps.json
+C:\Didi\SoftUni\Schoolarship\bin\Debug\netcoreapp3.1\Scholarship.runtimeconfig.json
+C:\Didi\SoftUni\Schoolarship\bin\Debug\netcoreapp3.1\Scholarship.runtimeconfig.dev.json
+C:\Didi\SoftUni\Schoolarship\bin\Debug\netcoreapp3.1\Scholarship.dll
+C:\Didi\SoftUni\Schoolarship\bin\Debug\netcoreapp3.1\Scholarship.pdb
+C:\Didi\SoftUni\Schoolarship\obj\Debug\netcoreapp3.1\Scholarship.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\Schoolarship\obj\Debug\netcoreapp3.1\Scholarship.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\Schoolarship\obj\Debug\netcoreapp3.1\Scholarship.AssemblyInfo.cs
+C:\Didi\SoftUni\Schoolarship\obj\Debug\netcoreapp3.1\Scholarship.dll
+C:\Didi\SoftUni\Schoolarship\obj\Debug\netcoreapp3.1\Scholarship.pdb
+C:\Didi\SoftUni\Schoolarship\obj\Debug\netcoreapp3.1\Scholarship.genruntimeconfig.cache
+C:\Didi\SoftUni\Schoolarship\obj\Debug\netcoreapp3.1\Scholarship.csprojAssemblyReference.cache

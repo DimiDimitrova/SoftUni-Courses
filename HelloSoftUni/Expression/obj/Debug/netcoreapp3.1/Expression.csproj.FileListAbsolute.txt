@@ -1,0 +1,13 @@
+C:\Users\Didi\SoftUni\HelloSoftUni\Expression\bin\Debug\netcoreapp3.1\Expression.exe
+C:\Users\Didi\SoftUni\HelloSoftUni\Expression\bin\Debug\netcoreapp3.1\Expression.deps.json
+C:\Users\Didi\SoftUni\HelloSoftUni\Expression\bin\Debug\netcoreapp3.1\Expression.runtimeconfig.json
+C:\Users\Didi\SoftUni\HelloSoftUni\Expression\bin\Debug\netcoreapp3.1\Expression.runtimeconfig.dev.json
+C:\Users\Didi\SoftUni\HelloSoftUni\Expression\bin\Debug\netcoreapp3.1\Expression.dll
+C:\Users\Didi\SoftUni\HelloSoftUni\Expression\bin\Debug\netcoreapp3.1\Expression.pdb
+C:\Users\Didi\SoftUni\HelloSoftUni\Expression\obj\Debug\netcoreapp3.1\Expression.csprojAssemblyReference.cache
+C:\Users\Didi\SoftUni\HelloSoftUni\Expression\obj\Debug\netcoreapp3.1\Expression.csproj.CoreCompileInputs.cache
+C:\Users\Didi\SoftUni\HelloSoftUni\Expression\obj\Debug\netcoreapp3.1\Expression.AssemblyInfoInputs.cache
+C:\Users\Didi\SoftUni\HelloSoftUni\Expression\obj\Debug\netcoreapp3.1\Expression.AssemblyInfo.cs
+C:\Users\Didi\SoftUni\HelloSoftUni\Expression\obj\Debug\netcoreapp3.1\Expression.dll
+C:\Users\Didi\SoftUni\HelloSoftUni\Expression\obj\Debug\netcoreapp3.1\Expression.pdb
+C:\Users\Didi\SoftUni\HelloSoftUni\Expression\obj\Debug\netcoreapp3.1\Expression.genruntimeconfig.cache

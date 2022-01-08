@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.exe
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.deps.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.runtimeconfig.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.runtimeconfig.dev.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.csprojAssemblyReference.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.AssemblyInfo.cs
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.genruntimeconfig.cache

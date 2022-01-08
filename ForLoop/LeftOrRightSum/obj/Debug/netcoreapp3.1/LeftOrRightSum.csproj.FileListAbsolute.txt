@@ -1,0 +1,12 @@
+C:\Didi\SoftUni\ForLoop\LeftOrRightSum\bin\Debug\netcoreapp3.1\LeftOrRightSum.exe
+C:\Didi\SoftUni\ForLoop\LeftOrRightSum\bin\Debug\netcoreapp3.1\LeftOrRightSum.deps.json
+C:\Didi\SoftUni\ForLoop\LeftOrRightSum\bin\Debug\netcoreapp3.1\LeftOrRightSum.runtimeconfig.json
+C:\Didi\SoftUni\ForLoop\LeftOrRightSum\bin\Debug\netcoreapp3.1\LeftOrRightSum.runtimeconfig.dev.json
+C:\Didi\SoftUni\ForLoop\LeftOrRightSum\bin\Debug\netcoreapp3.1\LeftOrRightSum.dll
+C:\Didi\SoftUni\ForLoop\LeftOrRightSum\bin\Debug\netcoreapp3.1\LeftOrRightSum.pdb
+C:\Didi\SoftUni\ForLoop\LeftOrRightSum\obj\Debug\netcoreapp3.1\LeftOrRightSum.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ForLoop\LeftOrRightSum\obj\Debug\netcoreapp3.1\LeftOrRightSum.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ForLoop\LeftOrRightSum\obj\Debug\netcoreapp3.1\LeftOrRightSum.AssemblyInfo.cs
+C:\Didi\SoftUni\ForLoop\LeftOrRightSum\obj\Debug\netcoreapp3.1\LeftOrRightSum.dll
+C:\Didi\SoftUni\ForLoop\LeftOrRightSum\obj\Debug\netcoreapp3.1\LeftOrRightSum.pdb
+C:\Didi\SoftUni\ForLoop\LeftOrRightSum\obj\Debug\netcoreapp3.1\LeftOrRightSum.genruntimeconfig.cache

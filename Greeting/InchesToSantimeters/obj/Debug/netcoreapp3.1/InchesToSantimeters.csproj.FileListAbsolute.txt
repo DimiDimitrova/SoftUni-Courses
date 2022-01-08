@@ -1,0 +1,12 @@
+C:\Didi\SoftUni\Greeting\InchesToSantimeters\bin\Debug\netcoreapp3.1\InchesToSantimeters.exe
+C:\Didi\SoftUni\Greeting\InchesToSantimeters\bin\Debug\netcoreapp3.1\InchesToSantimeters.deps.json
+C:\Didi\SoftUni\Greeting\InchesToSantimeters\bin\Debug\netcoreapp3.1\InchesToSantimeters.runtimeconfig.json
+C:\Didi\SoftUni\Greeting\InchesToSantimeters\bin\Debug\netcoreapp3.1\InchesToSantimeters.runtimeconfig.dev.json
+C:\Didi\SoftUni\Greeting\InchesToSantimeters\bin\Debug\netcoreapp3.1\InchesToSantimeters.dll
+C:\Didi\SoftUni\Greeting\InchesToSantimeters\bin\Debug\netcoreapp3.1\InchesToSantimeters.pdb
+C:\Didi\SoftUni\Greeting\InchesToSantimeters\obj\Debug\netcoreapp3.1\InchesToSantimeters.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\Greeting\InchesToSantimeters\obj\Debug\netcoreapp3.1\InchesToSantimeters.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\Greeting\InchesToSantimeters\obj\Debug\netcoreapp3.1\InchesToSantimeters.AssemblyInfo.cs
+C:\Didi\SoftUni\Greeting\InchesToSantimeters\obj\Debug\netcoreapp3.1\InchesToSantimeters.dll
+C:\Didi\SoftUni\Greeting\InchesToSantimeters\obj\Debug\netcoreapp3.1\InchesToSantimeters.pdb
+C:\Didi\SoftUni\Greeting\InchesToSantimeters\obj\Debug\netcoreapp3.1\InchesToSantimeters.genruntimeconfig.cache

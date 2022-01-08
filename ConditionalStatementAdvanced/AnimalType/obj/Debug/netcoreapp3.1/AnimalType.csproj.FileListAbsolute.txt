@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\ConditionalStatementAdvanced\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.exe
+C:\Didi\SoftUni\ConditionalStatementAdvanced\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.deps.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.runtimeconfig.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.runtimeconfig.dev.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.csprojAssemblyReference.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.AssemblyInfo.cs
+C:\Didi\SoftUni\ConditionalStatementAdvanced\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.genruntimeconfig.cache

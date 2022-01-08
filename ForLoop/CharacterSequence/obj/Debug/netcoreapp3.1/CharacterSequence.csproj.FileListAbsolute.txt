@@ -1,0 +1,12 @@
+C:\Didi\SoftUni\ForLoop\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.exe
+C:\Didi\SoftUni\ForLoop\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.deps.json
+C:\Didi\SoftUni\ForLoop\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.runtimeconfig.json
+C:\Didi\SoftUni\ForLoop\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.runtimeconfig.dev.json
+C:\Didi\SoftUni\ForLoop\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.dll
+C:\Didi\SoftUni\ForLoop\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.pdb
+C:\Didi\SoftUni\ForLoop\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ForLoop\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ForLoop\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.AssemblyInfo.cs
+C:\Didi\SoftUni\ForLoop\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.dll
+C:\Didi\SoftUni\ForLoop\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.pdb
+C:\Didi\SoftUni\ForLoop\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.genruntimeconfig.cache

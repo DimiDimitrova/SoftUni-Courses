@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\bin\Debug\netcoreapp3.1\DidiFirstProject.exe
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\bin\Debug\netcoreapp3.1\DidiFirstProject.deps.json
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\bin\Debug\netcoreapp3.1\DidiFirstProject.runtimeconfig.json
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\bin\Debug\netcoreapp3.1\DidiFirstProject.runtimeconfig.dev.json
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\bin\Debug\netcoreapp3.1\DidiFirstProject.dll
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\bin\Debug\netcoreapp3.1\DidiFirstProject.pdb
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\obj\Debug\netcoreapp3.1\DidiFirstProject.csprojAssemblyReference.cache
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\obj\Debug\netcoreapp3.1\DidiFirstProject.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\obj\Debug\netcoreapp3.1\DidiFirstProject.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\obj\Debug\netcoreapp3.1\DidiFirstProject.AssemblyInfo.cs
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\obj\Debug\netcoreapp3.1\DidiFirstProject.dll
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\obj\Debug\netcoreapp3.1\DidiFirstProject.pdb
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\obj\Debug\netcoreapp3.1\DidiFirstProject.genruntimeconfig.cache

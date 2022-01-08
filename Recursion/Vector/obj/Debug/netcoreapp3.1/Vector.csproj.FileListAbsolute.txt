@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\Recursion\Vector\bin\Debug\netcoreapp3.1\Vector.exe
+C:\Didi\SoftUni\Recursion\Vector\bin\Debug\netcoreapp3.1\Vector.deps.json
+C:\Didi\SoftUni\Recursion\Vector\bin\Debug\netcoreapp3.1\Vector.runtimeconfig.json
+C:\Didi\SoftUni\Recursion\Vector\bin\Debug\netcoreapp3.1\Vector.runtimeconfig.dev.json
+C:\Didi\SoftUni\Recursion\Vector\bin\Debug\netcoreapp3.1\Vector.dll
+C:\Didi\SoftUni\Recursion\Vector\bin\Debug\netcoreapp3.1\Vector.pdb
+C:\Didi\SoftUni\Recursion\Vector\obj\Debug\netcoreapp3.1\Vector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Didi\SoftUni\Recursion\Vector\obj\Debug\netcoreapp3.1\Vector.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\Recursion\Vector\obj\Debug\netcoreapp3.1\Vector.AssemblyInfo.cs
+C:\Didi\SoftUni\Recursion\Vector\obj\Debug\netcoreapp3.1\Vector.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\Recursion\Vector\obj\Debug\netcoreapp3.1\Vector.dll
+C:\Didi\SoftUni\Recursion\Vector\obj\Debug\netcoreapp3.1\Vector.pdb
+C:\Didi\SoftUni\Recursion\Vector\obj\Debug\netcoreapp3.1\Vector.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Didi\SoftUni\ForLoop\EvenPowersOf2\bin\Debug\netcoreapp3.1\EvenPowersOf2.exe
+C:\Didi\SoftUni\ForLoop\EvenPowersOf2\bin\Debug\netcoreapp3.1\EvenPowersOf2.deps.json
+C:\Didi\SoftUni\ForLoop\EvenPowersOf2\bin\Debug\netcoreapp3.1\EvenPowersOf2.runtimeconfig.json
+C:\Didi\SoftUni\ForLoop\EvenPowersOf2\bin\Debug\netcoreapp3.1\EvenPowersOf2.runtimeconfig.dev.json
+C:\Didi\SoftUni\ForLoop\EvenPowersOf2\bin\Debug\netcoreapp3.1\EvenPowersOf2.dll
+C:\Didi\SoftUni\ForLoop\EvenPowersOf2\bin\Debug\netcoreapp3.1\EvenPowersOf2.pdb
+C:\Didi\SoftUni\ForLoop\EvenPowersOf2\obj\Debug\netcoreapp3.1\EvenPowersOf2.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ForLoop\EvenPowersOf2\obj\Debug\netcoreapp3.1\EvenPowersOf2.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ForLoop\EvenPowersOf2\obj\Debug\netcoreapp3.1\EvenPowersOf2.AssemblyInfo.cs
+C:\Didi\SoftUni\ForLoop\EvenPowersOf2\obj\Debug\netcoreapp3.1\EvenPowersOf2.dll
+C:\Didi\SoftUni\ForLoop\EvenPowersOf2\obj\Debug\netcoreapp3.1\EvenPowersOf2.pdb
+C:\Didi\SoftUni\ForLoop\EvenPowersOf2\obj\Debug\netcoreapp3.1\EvenPowersOf2.genruntimeconfig.cache

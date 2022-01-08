@@ -1,0 +1,14 @@
+C:\Didi\SoftUni\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.exe
+C:\Didi\SoftUni\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.deps.json
+C:\Didi\SoftUni\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.runtimeconfig.json
+C:\Didi\SoftUni\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.runtimeconfig.dev.json
+C:\Didi\SoftUni\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.dll
+C:\Didi\SoftUni\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.pdb
+C:\Didi\SoftUni\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.AssemblyInfo.cs
+C:\Didi\SoftUni\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.dll
+C:\Didi\SoftUni\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.pdb
+C:\Didi\SoftUni\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.genruntimeconfig.cache
+C:\Didi\SoftUni\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.csproj.AssemblyReference.cache
+C:\Didi\SoftUni\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.GeneratedMSBuildEditorConfig.editorconfig

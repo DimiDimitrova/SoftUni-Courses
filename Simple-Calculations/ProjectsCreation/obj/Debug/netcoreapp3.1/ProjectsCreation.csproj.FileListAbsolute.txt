@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\Simple-Calculations\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.csprojAssemblyReference.cache
+C:\Didi\SoftUni\Simple-Calculations\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\Simple-Calculations\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\Simple-Calculations\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.AssemblyInfo.cs
+C:\Didi\SoftUni\Simple-Calculations\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.exe
+C:\Didi\SoftUni\Simple-Calculations\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.deps.json
+C:\Didi\SoftUni\Simple-Calculations\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.runtimeconfig.json
+C:\Didi\SoftUni\Simple-Calculations\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.runtimeconfig.dev.json
+C:\Didi\SoftUni\Simple-Calculations\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.dll
+C:\Didi\SoftUni\Simple-Calculations\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.pdb
+C:\Didi\SoftUni\Simple-Calculations\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.dll
+C:\Didi\SoftUni\Simple-Calculations\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.pdb
+C:\Didi\SoftUni\Simple-Calculations\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.genruntimeconfig.cache

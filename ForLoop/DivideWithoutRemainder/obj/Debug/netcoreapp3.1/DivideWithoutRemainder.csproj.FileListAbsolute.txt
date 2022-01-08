@@ -1,0 +1,12 @@
+C:\Didi\SoftUni\ForLoop\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.exe
+C:\Didi\SoftUni\ForLoop\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.deps.json
+C:\Didi\SoftUni\ForLoop\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.runtimeconfig.json
+C:\Didi\SoftUni\ForLoop\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.runtimeconfig.dev.json
+C:\Didi\SoftUni\ForLoop\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.dll
+C:\Didi\SoftUni\ForLoop\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.pdb
+C:\Didi\SoftUni\ForLoop\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ForLoop\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ForLoop\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.AssemblyInfo.cs
+C:\Didi\SoftUni\ForLoop\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.dll
+C:\Didi\SoftUni\ForLoop\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.pdb
+C:\Didi\SoftUni\ForLoop\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.genruntimeconfig.cache

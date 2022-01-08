@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\KingKong\bin\Debug\netcoreapp3.1\KingKong.exe
+C:\Didi\SoftUni\KingKong\bin\Debug\netcoreapp3.1\KingKong.deps.json
+C:\Didi\SoftUni\KingKong\bin\Debug\netcoreapp3.1\KingKong.runtimeconfig.json
+C:\Didi\SoftUni\KingKong\bin\Debug\netcoreapp3.1\KingKong.runtimeconfig.dev.json
+C:\Didi\SoftUni\KingKong\bin\Debug\netcoreapp3.1\KingKong.dll
+C:\Didi\SoftUni\KingKong\bin\Debug\netcoreapp3.1\KingKong.pdb
+C:\Didi\SoftUni\KingKong\obj\Debug\netcoreapp3.1\KingKong.csprojAssemblyReference.cache
+C:\Didi\SoftUni\KingKong\obj\Debug\netcoreapp3.1\KingKong.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\KingKong\obj\Debug\netcoreapp3.1\KingKong.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\KingKong\obj\Debug\netcoreapp3.1\KingKong.AssemblyInfo.cs
+C:\Didi\SoftUni\KingKong\obj\Debug\netcoreapp3.1\KingKong.dll
+C:\Didi\SoftUni\KingKong\obj\Debug\netcoreapp3.1\KingKong.pdb
+C:\Didi\SoftUni\KingKong\obj\Debug\netcoreapp3.1\KingKong.genruntimeconfig.cache

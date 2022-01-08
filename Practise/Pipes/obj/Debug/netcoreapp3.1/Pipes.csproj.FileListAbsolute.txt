@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\Practise\Pipes\bin\Debug\netcoreapp3.1\Pipes.exe
+C:\Didi\SoftUni\Practise\Pipes\bin\Debug\netcoreapp3.1\Pipes.deps.json
+C:\Didi\SoftUni\Practise\Pipes\bin\Debug\netcoreapp3.1\Pipes.runtimeconfig.json
+C:\Didi\SoftUni\Practise\Pipes\bin\Debug\netcoreapp3.1\Pipes.runtimeconfig.dev.json
+C:\Didi\SoftUni\Practise\Pipes\bin\Debug\netcoreapp3.1\Pipes.dll
+C:\Didi\SoftUni\Practise\Pipes\bin\Debug\netcoreapp3.1\Pipes.pdb
+C:\Didi\SoftUni\Practise\Pipes\obj\Debug\netcoreapp3.1\Pipes.csprojAssemblyReference.cache
+C:\Didi\SoftUni\Practise\Pipes\obj\Debug\netcoreapp3.1\Pipes.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\Practise\Pipes\obj\Debug\netcoreapp3.1\Pipes.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\Practise\Pipes\obj\Debug\netcoreapp3.1\Pipes.AssemblyInfo.cs
+C:\Didi\SoftUni\Practise\Pipes\obj\Debug\netcoreapp3.1\Pipes.dll
+C:\Didi\SoftUni\Practise\Pipes\obj\Debug\netcoreapp3.1\Pipes.pdb
+C:\Didi\SoftUni\Practise\Pipes\obj\Debug\netcoreapp3.1\Pipes.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Didi\SoftUni\ForLoop\NumberN1\bin\Debug\netcoreapp3.1\NumberN1.exe
+C:\Didi\SoftUni\ForLoop\NumberN1\bin\Debug\netcoreapp3.1\NumberN1.deps.json
+C:\Didi\SoftUni\ForLoop\NumberN1\bin\Debug\netcoreapp3.1\NumberN1.runtimeconfig.json
+C:\Didi\SoftUni\ForLoop\NumberN1\bin\Debug\netcoreapp3.1\NumberN1.runtimeconfig.dev.json
+C:\Didi\SoftUni\ForLoop\NumberN1\bin\Debug\netcoreapp3.1\NumberN1.dll
+C:\Didi\SoftUni\ForLoop\NumberN1\bin\Debug\netcoreapp3.1\NumberN1.pdb
+C:\Didi\SoftUni\ForLoop\NumberN1\obj\Debug\netcoreapp3.1\NumberN1.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ForLoop\NumberN1\obj\Debug\netcoreapp3.1\NumberN1.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ForLoop\NumberN1\obj\Debug\netcoreapp3.1\NumberN1.AssemblyInfo.cs
+C:\Didi\SoftUni\ForLoop\NumberN1\obj\Debug\netcoreapp3.1\NumberN1.dll
+C:\Didi\SoftUni\ForLoop\NumberN1\obj\Debug\netcoreapp3.1\NumberN1.pdb
+C:\Didi\SoftUni\ForLoop\NumberN1\obj\Debug\netcoreapp3.1\NumberN1.genruntimeconfig.cache

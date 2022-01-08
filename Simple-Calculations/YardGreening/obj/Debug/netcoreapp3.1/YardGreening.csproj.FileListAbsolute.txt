@@ -1,0 +1,12 @@
+C:\Didi\SoftUni\Simple-Calculations\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.exe
+C:\Didi\SoftUni\Simple-Calculations\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.deps.json
+C:\Didi\SoftUni\Simple-Calculations\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.runtimeconfig.json
+C:\Didi\SoftUni\Simple-Calculations\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.runtimeconfig.dev.json
+C:\Didi\SoftUni\Simple-Calculations\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.dll
+C:\Didi\SoftUni\Simple-Calculations\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.pdb
+C:\Didi\SoftUni\Simple-Calculations\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\Simple-Calculations\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\Simple-Calculations\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.AssemblyInfo.cs
+C:\Didi\SoftUni\Simple-Calculations\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.dll
+C:\Didi\SoftUni\Simple-Calculations\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.pdb
+C:\Didi\SoftUni\Simple-Calculations\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.genruntimeconfig.cache

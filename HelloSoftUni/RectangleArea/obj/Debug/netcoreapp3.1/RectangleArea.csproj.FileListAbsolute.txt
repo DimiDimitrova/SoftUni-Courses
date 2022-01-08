@@ -1,0 +1,12 @@
+C:\Users\Didi\SoftUni\HelloSoftUni\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.exe
+C:\Users\Didi\SoftUni\HelloSoftUni\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.deps.json
+C:\Users\Didi\SoftUni\HelloSoftUni\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.runtimeconfig.json
+C:\Users\Didi\SoftUni\HelloSoftUni\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.runtimeconfig.dev.json
+C:\Users\Didi\SoftUni\HelloSoftUni\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.dll
+C:\Users\Didi\SoftUni\HelloSoftUni\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.pdb
+C:\Users\Didi\SoftUni\HelloSoftUni\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Didi\SoftUni\HelloSoftUni\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.AssemblyInfoInputs.cache
+C:\Users\Didi\SoftUni\HelloSoftUni\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.AssemblyInfo.cs
+C:\Users\Didi\SoftUni\HelloSoftUni\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.dll
+C:\Users\Didi\SoftUni\HelloSoftUni\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.pdb
+C:\Users\Didi\SoftUni\HelloSoftUni\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\ForLoop\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.exe
+C:\Didi\SoftUni\ForLoop\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.deps.json
+C:\Didi\SoftUni\ForLoop\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.runtimeconfig.json
+C:\Didi\SoftUni\ForLoop\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.runtimeconfig.dev.json
+C:\Didi\SoftUni\ForLoop\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.dll
+C:\Didi\SoftUni\ForLoop\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.pdb
+C:\Didi\SoftUni\ForLoop\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.csprojAssemblyReference.cache
+C:\Didi\SoftUni\ForLoop\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ForLoop\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ForLoop\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.AssemblyInfo.cs
+C:\Didi\SoftUni\ForLoop\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.dll
+C:\Didi\SoftUni\ForLoop\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.pdb
+C:\Didi\SoftUni\ForLoop\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.genruntimeconfig.cache

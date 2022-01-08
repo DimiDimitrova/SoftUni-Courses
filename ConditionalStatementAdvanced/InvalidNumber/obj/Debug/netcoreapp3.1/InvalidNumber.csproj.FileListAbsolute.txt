@@ -1,0 +1,12 @@
+C:\Didi\SoftUni\ConditionalStatementAdvanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.exe
+C:\Didi\SoftUni\ConditionalStatementAdvanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.deps.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.runtimeconfig.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.runtimeconfig.dev.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.AssemblyInfo.cs
+C:\Didi\SoftUni\ConditionalStatementAdvanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.genruntimeconfig.cache

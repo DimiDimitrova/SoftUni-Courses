@@ -1,0 +1,12 @@
+C:\Didi\SoftUni\ForLoop\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.exe
+C:\Didi\SoftUni\ForLoop\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.deps.json
+C:\Didi\SoftUni\ForLoop\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.runtimeconfig.json
+C:\Didi\SoftUni\ForLoop\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.runtimeconfig.dev.json
+C:\Didi\SoftUni\ForLoop\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.dll
+C:\Didi\SoftUni\ForLoop\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.pdb
+C:\Didi\SoftUni\ForLoop\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ForLoop\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ForLoop\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.AssemblyInfo.cs
+C:\Didi\SoftUni\ForLoop\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.dll
+C:\Didi\SoftUni\ForLoop\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.pdb
+C:\Didi\SoftUni\ForLoop\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.genruntimeconfig.cache

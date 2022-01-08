@@ -1,0 +1,12 @@
+C:\Didi\SoftUni\Conditional-Statements\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.exe
+C:\Didi\SoftUni\Conditional-Statements\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.deps.json
+C:\Didi\SoftUni\Conditional-Statements\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.runtimeconfig.json
+C:\Didi\SoftUni\Conditional-Statements\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.runtimeconfig.dev.json
+C:\Didi\SoftUni\Conditional-Statements\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.dll
+C:\Didi\SoftUni\Conditional-Statements\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.pdb
+C:\Didi\SoftUni\Conditional-Statements\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\Conditional-Statements\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\Conditional-Statements\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.AssemblyInfo.cs
+C:\Didi\SoftUni\Conditional-Statements\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.dll
+C:\Didi\SoftUni\Conditional-Statements\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.pdb
+C:\Didi\SoftUni\Conditional-Statements\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.genruntimeconfig.cache

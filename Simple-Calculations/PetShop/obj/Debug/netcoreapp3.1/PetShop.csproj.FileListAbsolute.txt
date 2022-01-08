@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\Simple-Calculations\PetShop\bin\Debug\netcoreapp3.1\PetShop.exe
+C:\Didi\SoftUni\Simple-Calculations\PetShop\bin\Debug\netcoreapp3.1\PetShop.deps.json
+C:\Didi\SoftUni\Simple-Calculations\PetShop\bin\Debug\netcoreapp3.1\PetShop.runtimeconfig.json
+C:\Didi\SoftUni\Simple-Calculations\PetShop\bin\Debug\netcoreapp3.1\PetShop.runtimeconfig.dev.json
+C:\Didi\SoftUni\Simple-Calculations\PetShop\bin\Debug\netcoreapp3.1\PetShop.dll
+C:\Didi\SoftUni\Simple-Calculations\PetShop\bin\Debug\netcoreapp3.1\PetShop.pdb
+C:\Didi\SoftUni\Simple-Calculations\PetShop\obj\Debug\netcoreapp3.1\PetShop.csprojAssemblyReference.cache
+C:\Didi\SoftUni\Simple-Calculations\PetShop\obj\Debug\netcoreapp3.1\PetShop.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\Simple-Calculations\PetShop\obj\Debug\netcoreapp3.1\PetShop.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\Simple-Calculations\PetShop\obj\Debug\netcoreapp3.1\PetShop.AssemblyInfo.cs
+C:\Didi\SoftUni\Simple-Calculations\PetShop\obj\Debug\netcoreapp3.1\PetShop.dll
+C:\Didi\SoftUni\Simple-Calculations\PetShop\obj\Debug\netcoreapp3.1\PetShop.pdb
+C:\Didi\SoftUni\Simple-Calculations\PetShop\obj\Debug\netcoreapp3.1\PetShop.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\ConditionalStatementAdvanced\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.exe
+C:\Didi\SoftUni\ConditionalStatementAdvanced\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.deps.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.runtimeconfig.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.runtimeconfig.dev.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.csprojAssemblyReference.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.AssemblyInfo.cs
+C:\Didi\SoftUni\ConditionalStatementAdvanced\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.genruntimeconfig.cache

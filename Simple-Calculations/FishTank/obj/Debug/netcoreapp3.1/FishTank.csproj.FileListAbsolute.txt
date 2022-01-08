@@ -1,0 +1,12 @@
+C:\Didi\SoftUni\Simple-Calculations\FishTank\bin\Debug\netcoreapp3.1\FishTank.exe
+C:\Didi\SoftUni\Simple-Calculations\FishTank\bin\Debug\netcoreapp3.1\FishTank.deps.json
+C:\Didi\SoftUni\Simple-Calculations\FishTank\bin\Debug\netcoreapp3.1\FishTank.runtimeconfig.json
+C:\Didi\SoftUni\Simple-Calculations\FishTank\bin\Debug\netcoreapp3.1\FishTank.runtimeconfig.dev.json
+C:\Didi\SoftUni\Simple-Calculations\FishTank\bin\Debug\netcoreapp3.1\FishTank.dll
+C:\Didi\SoftUni\Simple-Calculations\FishTank\bin\Debug\netcoreapp3.1\FishTank.pdb
+C:\Didi\SoftUni\Simple-Calculations\FishTank\obj\Debug\netcoreapp3.1\FishTank.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\Simple-Calculations\FishTank\obj\Debug\netcoreapp3.1\FishTank.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\Simple-Calculations\FishTank\obj\Debug\netcoreapp3.1\FishTank.AssemblyInfo.cs
+C:\Didi\SoftUni\Simple-Calculations\FishTank\obj\Debug\netcoreapp3.1\FishTank.dll
+C:\Didi\SoftUni\Simple-Calculations\FishTank\obj\Debug\netcoreapp3.1\FishTank.pdb
+C:\Didi\SoftUni\Simple-Calculations\FishTank\obj\Debug\netcoreapp3.1\FishTank.genruntimeconfig.cache

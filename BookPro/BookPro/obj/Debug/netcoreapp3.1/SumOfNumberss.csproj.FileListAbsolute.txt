@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\BookPro\BookPro\bin\Debug\netcoreapp3.1\SumOfNumberss.exe
+C:\Didi\SoftUni\BookPro\BookPro\bin\Debug\netcoreapp3.1\SumOfNumberss.deps.json
+C:\Didi\SoftUni\BookPro\BookPro\bin\Debug\netcoreapp3.1\SumOfNumberss.runtimeconfig.json
+C:\Didi\SoftUni\BookPro\BookPro\bin\Debug\netcoreapp3.1\SumOfNumberss.runtimeconfig.dev.json
+C:\Didi\SoftUni\BookPro\BookPro\bin\Debug\netcoreapp3.1\SumOfNumberss.dll
+C:\Didi\SoftUni\BookPro\BookPro\bin\Debug\netcoreapp3.1\SumOfNumberss.pdb
+C:\Didi\SoftUni\BookPro\BookPro\obj\Debug\netcoreapp3.1\SumOfNumberss.csprojAssemblyReference.cache
+C:\Didi\SoftUni\BookPro\BookPro\obj\Debug\netcoreapp3.1\SumOfNumberss.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\BookPro\BookPro\obj\Debug\netcoreapp3.1\SumOfNumberss.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\BookPro\BookPro\obj\Debug\netcoreapp3.1\SumOfNumberss.AssemblyInfo.cs
+C:\Didi\SoftUni\BookPro\BookPro\obj\Debug\netcoreapp3.1\SumOfNumberss.dll
+C:\Didi\SoftUni\BookPro\BookPro\obj\Debug\netcoreapp3.1\SumOfNumberss.pdb
+C:\Didi\SoftUni\BookPro\BookPro\obj\Debug\netcoreapp3.1\SumOfNumberss.genruntimeconfig.cache

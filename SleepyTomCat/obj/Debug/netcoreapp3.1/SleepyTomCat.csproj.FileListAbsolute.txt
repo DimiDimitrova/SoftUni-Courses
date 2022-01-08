@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\SleepyTomCat\obj\Debug\netcoreapp3.1\SleepyTomCat.csprojAssemblyReference.cache
+C:\Didi\SoftUni\SleepyTomCat\obj\Debug\netcoreapp3.1\SleepyTomCat.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\SleepyTomCat\obj\Debug\netcoreapp3.1\SleepyTomCat.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\SleepyTomCat\obj\Debug\netcoreapp3.1\SleepyTomCat.AssemblyInfo.cs
+C:\Didi\SoftUni\SleepyTomCat\bin\Debug\netcoreapp3.1\SleepyTomCat.exe
+C:\Didi\SoftUni\SleepyTomCat\bin\Debug\netcoreapp3.1\SleepyTomCat.deps.json
+C:\Didi\SoftUni\SleepyTomCat\bin\Debug\netcoreapp3.1\SleepyTomCat.runtimeconfig.json
+C:\Didi\SoftUni\SleepyTomCat\bin\Debug\netcoreapp3.1\SleepyTomCat.runtimeconfig.dev.json
+C:\Didi\SoftUni\SleepyTomCat\bin\Debug\netcoreapp3.1\SleepyTomCat.dll
+C:\Didi\SoftUni\SleepyTomCat\bin\Debug\netcoreapp3.1\SleepyTomCat.pdb
+C:\Didi\SoftUni\SleepyTomCat\obj\Debug\netcoreapp3.1\SleepyTomCat.dll
+C:\Didi\SoftUni\SleepyTomCat\obj\Debug\netcoreapp3.1\SleepyTomCat.pdb
+C:\Didi\SoftUni\SleepyTomCat\obj\Debug\netcoreapp3.1\SleepyTomCat.genruntimeconfig.cache

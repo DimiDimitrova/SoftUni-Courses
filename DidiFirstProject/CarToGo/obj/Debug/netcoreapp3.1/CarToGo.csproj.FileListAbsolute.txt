@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\DidiFirstProject\CarToGo\bin\Debug\netcoreapp3.1\CarToGo.exe
+C:\Didi\SoftUni\DidiFirstProject\CarToGo\bin\Debug\netcoreapp3.1\CarToGo.deps.json
+C:\Didi\SoftUni\DidiFirstProject\CarToGo\bin\Debug\netcoreapp3.1\CarToGo.runtimeconfig.json
+C:\Didi\SoftUni\DidiFirstProject\CarToGo\bin\Debug\netcoreapp3.1\CarToGo.runtimeconfig.dev.json
+C:\Didi\SoftUni\DidiFirstProject\CarToGo\bin\Debug\netcoreapp3.1\CarToGo.dll
+C:\Didi\SoftUni\DidiFirstProject\CarToGo\bin\Debug\netcoreapp3.1\CarToGo.pdb
+C:\Didi\SoftUni\DidiFirstProject\CarToGo\obj\Debug\netcoreapp3.1\CarToGo.csprojAssemblyReference.cache
+C:\Didi\SoftUni\DidiFirstProject\CarToGo\obj\Debug\netcoreapp3.1\CarToGo.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\DidiFirstProject\CarToGo\obj\Debug\netcoreapp3.1\CarToGo.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\DidiFirstProject\CarToGo\obj\Debug\netcoreapp3.1\CarToGo.AssemblyInfo.cs
+C:\Didi\SoftUni\DidiFirstProject\CarToGo\obj\Debug\netcoreapp3.1\CarToGo.dll
+C:\Didi\SoftUni\DidiFirstProject\CarToGo\obj\Debug\netcoreapp3.1\CarToGo.pdb
+C:\Didi\SoftUni\DidiFirstProject\CarToGo\obj\Debug\netcoreapp3.1\CarToGo.genruntimeconfig.cache

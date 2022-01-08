@@ -1,0 +1,12 @@
+C:\Didi\SoftUni\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.exe
+C:\Didi\SoftUni\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.deps.json
+C:\Didi\SoftUni\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.json
+C:\Didi\SoftUni\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.dev.json
+C:\Didi\SoftUni\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.dll
+C:\Didi\SoftUni\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.pdb
+C:\Didi\SoftUni\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfo.cs
+C:\Didi\SoftUni\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.dll
+C:\Didi\SoftUni\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.pdb
+C:\Didi\SoftUni\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\bin\Debug\netcoreapp3.1\Flowers.exe
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\bin\Debug\netcoreapp3.1\Flowers.deps.json
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\bin\Debug\netcoreapp3.1\Flowers.runtimeconfig.json
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\bin\Debug\netcoreapp3.1\Flowers.runtimeconfig.dev.json
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\bin\Debug\netcoreapp3.1\Flowers.dll
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\bin\Debug\netcoreapp3.1\Flowers.pdb
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\obj\Debug\netcoreapp3.1\Flowers.csprojAssemblyReference.cache
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\obj\Debug\netcoreapp3.1\Flowers.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\obj\Debug\netcoreapp3.1\Flowers.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\obj\Debug\netcoreapp3.1\Flowers.AssemblyInfo.cs
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\obj\Debug\netcoreapp3.1\Flowers.dll
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\obj\Debug\netcoreapp3.1\Flowers.pdb
+C:\Didi\SoftUni\DidiFirstProject\DidiFirstProject\obj\Debug\netcoreapp3.1\Flowers.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Didi\SoftUni\ForLoop\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ForLoop\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ForLoop\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.AssemblyInfo.cs
+C:\Didi\SoftUni\ForLoop\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.exe
+C:\Didi\SoftUni\ForLoop\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.deps.json
+C:\Didi\SoftUni\ForLoop\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.runtimeconfig.json
+C:\Didi\SoftUni\ForLoop\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.runtimeconfig.dev.json
+C:\Didi\SoftUni\ForLoop\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.dll
+C:\Didi\SoftUni\ForLoop\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.pdb
+C:\Didi\SoftUni\ForLoop\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.dll
+C:\Didi\SoftUni\ForLoop\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.pdb
+C:\Didi\SoftUni\ForLoop\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.genruntimeconfig.cache

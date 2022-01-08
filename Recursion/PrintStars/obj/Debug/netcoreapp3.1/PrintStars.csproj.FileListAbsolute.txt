@@ -1,0 +1,14 @@
+C:\Didi\SoftUni\Recursion\PrintStars\bin\Debug\netcoreapp3.1\PrintStars.exe
+C:\Didi\SoftUni\Recursion\PrintStars\bin\Debug\netcoreapp3.1\PrintStars.deps.json
+C:\Didi\SoftUni\Recursion\PrintStars\bin\Debug\netcoreapp3.1\PrintStars.runtimeconfig.json
+C:\Didi\SoftUni\Recursion\PrintStars\bin\Debug\netcoreapp3.1\PrintStars.runtimeconfig.dev.json
+C:\Didi\SoftUni\Recursion\PrintStars\bin\Debug\netcoreapp3.1\PrintStars.dll
+C:\Didi\SoftUni\Recursion\PrintStars\bin\Debug\netcoreapp3.1\PrintStars.pdb
+C:\Didi\SoftUni\Recursion\PrintStars\obj\Debug\netcoreapp3.1\PrintStars.csproj.AssemblyReference.cache
+C:\Didi\SoftUni\Recursion\PrintStars\obj\Debug\netcoreapp3.1\PrintStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Didi\SoftUni\Recursion\PrintStars\obj\Debug\netcoreapp3.1\PrintStars.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\Recursion\PrintStars\obj\Debug\netcoreapp3.1\PrintStars.AssemblyInfo.cs
+C:\Didi\SoftUni\Recursion\PrintStars\obj\Debug\netcoreapp3.1\PrintStars.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\Recursion\PrintStars\obj\Debug\netcoreapp3.1\PrintStars.dll
+C:\Didi\SoftUni\Recursion\PrintStars\obj\Debug\netcoreapp3.1\PrintStars.pdb
+C:\Didi\SoftUni\Recursion\PrintStars\obj\Debug\netcoreapp3.1\PrintStars.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Didi\SoftUni\ExamUnwe\ExamUnwe\bin\Debug\ExamUnwe.exe.config
+C:\Didi\SoftUni\ExamUnwe\ExamUnwe\bin\Debug\ExamUnwe.exe
+C:\Didi\SoftUni\ExamUnwe\ExamUnwe\bin\Debug\ExamUnwe.pdb
+C:\Didi\SoftUni\ExamUnwe\ExamUnwe\obj\Debug\ExamUnwe.csprojAssemblyReference.cache
+C:\Didi\SoftUni\ExamUnwe\ExamUnwe\obj\Debug\ExamUnwe.Form1.resources
+C:\Didi\SoftUni\ExamUnwe\ExamUnwe\obj\Debug\ExamUnwe.Properties.Resources.resources
+C:\Didi\SoftUni\ExamUnwe\ExamUnwe\obj\Debug\ExamUnwe.csproj.GenerateResource.cache
+C:\Didi\SoftUni\ExamUnwe\ExamUnwe\obj\Debug\ExamUnwe.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ExamUnwe\ExamUnwe\obj\Debug\ExamUnwe.exe
+C:\Didi\SoftUni\ExamUnwe\ExamUnwe\obj\Debug\ExamUnwe.pdb

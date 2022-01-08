@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\ConditionalStatementAdvanced\Cinema\bin\Debug\netcoreapp3.1\Cinema.exe
+C:\Didi\SoftUni\ConditionalStatementAdvanced\Cinema\bin\Debug\netcoreapp3.1\Cinema.deps.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.dev.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\Cinema\bin\Debug\netcoreapp3.1\Cinema.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\Cinema\bin\Debug\netcoreapp3.1\Cinema.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\Cinema\obj\Debug\netcoreapp3.1\Cinema.csprojAssemblyReference.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\Cinema\obj\Debug\netcoreapp3.1\Cinema.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfo.cs
+C:\Didi\SoftUni\ConditionalStatementAdvanced\Cinema\obj\Debug\netcoreapp3.1\Cinema.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\Cinema\obj\Debug\netcoreapp3.1\Cinema.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\Cinema\obj\Debug\netcoreapp3.1\Cinema.genruntimeconfig.cache

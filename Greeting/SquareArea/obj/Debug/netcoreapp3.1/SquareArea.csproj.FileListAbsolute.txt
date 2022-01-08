@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\Greeting\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.exe
+C:\Didi\SoftUni\Greeting\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.deps.json
+C:\Didi\SoftUni\Greeting\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.runtimeconfig.json
+C:\Didi\SoftUni\Greeting\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.runtimeconfig.dev.json
+C:\Didi\SoftUni\Greeting\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.dll
+C:\Didi\SoftUni\Greeting\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.pdb
+C:\Didi\SoftUni\Greeting\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.csprojAssemblyReference.cache
+C:\Didi\SoftUni\Greeting\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\Greeting\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\Greeting\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.AssemblyInfo.cs
+C:\Didi\SoftUni\Greeting\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.dll
+C:\Didi\SoftUni\Greeting\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.pdb
+C:\Didi\SoftUni\Greeting\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.genruntimeconfig.cache

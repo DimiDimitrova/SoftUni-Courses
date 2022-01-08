@@ -1,0 +1,12 @@
+C:\Didi\SoftUni\DidiFirstProject\PointOnRectangleBorders\bin\Debug\netcoreapp3.1\NumberFrom1To10.exe
+C:\Didi\SoftUni\DidiFirstProject\PointOnRectangleBorders\bin\Debug\netcoreapp3.1\NumberFrom1To10.deps.json
+C:\Didi\SoftUni\DidiFirstProject\PointOnRectangleBorders\bin\Debug\netcoreapp3.1\NumberFrom1To10.runtimeconfig.json
+C:\Didi\SoftUni\DidiFirstProject\PointOnRectangleBorders\bin\Debug\netcoreapp3.1\NumberFrom1To10.runtimeconfig.dev.json
+C:\Didi\SoftUni\DidiFirstProject\PointOnRectangleBorders\bin\Debug\netcoreapp3.1\NumberFrom1To10.dll
+C:\Didi\SoftUni\DidiFirstProject\PointOnRectangleBorders\bin\Debug\netcoreapp3.1\NumberFrom1To10.pdb
+C:\Didi\SoftUni\DidiFirstProject\PointOnRectangleBorders\obj\Debug\netcoreapp3.1\NumberFrom1To10.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\DidiFirstProject\PointOnRectangleBorders\obj\Debug\netcoreapp3.1\NumberFrom1To10.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\DidiFirstProject\PointOnRectangleBorders\obj\Debug\netcoreapp3.1\NumberFrom1To10.AssemblyInfo.cs
+C:\Didi\SoftUni\DidiFirstProject\PointOnRectangleBorders\obj\Debug\netcoreapp3.1\NumberFrom1To10.dll
+C:\Didi\SoftUni\DidiFirstProject\PointOnRectangleBorders\obj\Debug\netcoreapp3.1\NumberFrom1To10.pdb
+C:\Didi\SoftUni\DidiFirstProject\PointOnRectangleBorders\obj\Debug\netcoreapp3.1\NumberFrom1To10.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.exe
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.deps.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.runtimeconfig.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.runtimeconfig.dev.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.csprojAssemblyReference.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.AssemblyInfo.cs
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.genruntimeconfig.cache

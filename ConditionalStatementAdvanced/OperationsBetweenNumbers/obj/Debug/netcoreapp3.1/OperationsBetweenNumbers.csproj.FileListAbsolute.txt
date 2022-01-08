@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\ConditionalStatementAdvanced\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.exe
+C:\Didi\SoftUni\ConditionalStatementAdvanced\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.deps.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.runtimeconfig.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.runtimeconfig.dev.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.csprojAssemblyReference.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.AssemblyInfo.cs
+C:\Didi\SoftUni\ConditionalStatementAdvanced\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.genruntimeconfig.cache

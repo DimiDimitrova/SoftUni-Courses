@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\ConditionalStatementAdvanced\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.exe
+C:\Didi\SoftUni\ConditionalStatementAdvanced\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.deps.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.runtimeconfig.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.runtimeconfig.dev.json
+C:\Didi\SoftUni\ConditionalStatementAdvanced\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.csprojAssemblyReference.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\ConditionalStatementAdvanced\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.AssemblyInfo.cs
+C:\Didi\SoftUni\ConditionalStatementAdvanced\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.dll
+C:\Didi\SoftUni\ConditionalStatementAdvanced\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.pdb
+C:\Didi\SoftUni\ConditionalStatementAdvanced\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.genruntimeconfig.cache

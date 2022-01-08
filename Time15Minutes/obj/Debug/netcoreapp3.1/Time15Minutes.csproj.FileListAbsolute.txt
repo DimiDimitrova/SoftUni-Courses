@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\Time15Minutes\bin\Debug\netcoreapp3.1\Time15Minutes.exe
+C:\Didi\SoftUni\Time15Minutes\bin\Debug\netcoreapp3.1\Time15Minutes.deps.json
+C:\Didi\SoftUni\Time15Minutes\bin\Debug\netcoreapp3.1\Time15Minutes.runtimeconfig.json
+C:\Didi\SoftUni\Time15Minutes\bin\Debug\netcoreapp3.1\Time15Minutes.runtimeconfig.dev.json
+C:\Didi\SoftUni\Time15Minutes\bin\Debug\netcoreapp3.1\Time15Minutes.dll
+C:\Didi\SoftUni\Time15Minutes\bin\Debug\netcoreapp3.1\Time15Minutes.pdb
+C:\Didi\SoftUni\Time15Minutes\obj\Debug\netcoreapp3.1\Time15Minutes.csprojAssemblyReference.cache
+C:\Didi\SoftUni\Time15Minutes\obj\Debug\netcoreapp3.1\Time15Minutes.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\Time15Minutes\obj\Debug\netcoreapp3.1\Time15Minutes.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\Time15Minutes\obj\Debug\netcoreapp3.1\Time15Minutes.AssemblyInfo.cs
+C:\Didi\SoftUni\Time15Minutes\obj\Debug\netcoreapp3.1\Time15Minutes.dll
+C:\Didi\SoftUni\Time15Minutes\obj\Debug\netcoreapp3.1\Time15Minutes.pdb
+C:\Didi\SoftUni\Time15Minutes\obj\Debug\netcoreapp3.1\Time15Minutes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Didi\SoftUni\Practise\Firm\bin\Debug\netcoreapp3.1\Firm.exe
+C:\Didi\SoftUni\Practise\Firm\bin\Debug\netcoreapp3.1\Firm.deps.json
+C:\Didi\SoftUni\Practise\Firm\bin\Debug\netcoreapp3.1\Firm.runtimeconfig.json
+C:\Didi\SoftUni\Practise\Firm\bin\Debug\netcoreapp3.1\Firm.runtimeconfig.dev.json
+C:\Didi\SoftUni\Practise\Firm\bin\Debug\netcoreapp3.1\Firm.dll
+C:\Didi\SoftUni\Practise\Firm\bin\Debug\netcoreapp3.1\Firm.pdb
+C:\Didi\SoftUni\Practise\Firm\obj\Debug\netcoreapp3.1\Firm.csproj.CoreCompileInputs.cache
+C:\Didi\SoftUni\Practise\Firm\obj\Debug\netcoreapp3.1\Firm.AssemblyInfoInputs.cache
+C:\Didi\SoftUni\Practise\Firm\obj\Debug\netcoreapp3.1\Firm.AssemblyInfo.cs
+C:\Didi\SoftUni\Practise\Firm\obj\Debug\netcoreapp3.1\Firm.dll
+C:\Didi\SoftUni\Practise\Firm\obj\Debug\netcoreapp3.1\Firm.pdb
+C:\Didi\SoftUni\Practise\Firm\obj\Debug\netcoreapp3.1\Firm.genruntimeconfig.cache
+C:\Didi\SoftUni\Practise\Firm\obj\Debug\netcoreapp3.1\Firm.csprojAssemblyReference.cache
